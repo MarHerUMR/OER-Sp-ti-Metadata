@@ -1,0 +1,28 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Wissen strukturieren mit Concept Maps
+description: ''
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://www.youtube.com/watch?v=i8VjtpxHP4E
+creator:
+- givenName: Alexander
+  familyName: Kaib
+  type: Person
+  affiliation: ''
+keywords:
+- Struktur
+- Concept Map
+- Strukturierung
+- Erklärvideo
+- Wissen strukturieren
+- Lernen
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n1
+learningResourceType:
+- https://w3id.org/kim/hcrt/video
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2024-01-07'

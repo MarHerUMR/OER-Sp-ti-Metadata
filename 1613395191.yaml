@@ -1,0 +1,28 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Öffentlicher Personennahverkehr
+description: ''
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://moodle.frankfurt-university.de/course/view.php?id=8017
+creator:
+- givenName: Josef
+  familyName: Becker
+  type: Person
+  affiliation: ''
+- givenName: Frank
+  familyName: Lademann
+  type: Person
+  affiliation: ''
+keywords:
+- ÖPNV
+- HessenHub-Förderlinie
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n8
+learningResourceType:
+- https://w3id.org/kim/hcrt/course
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2021-02-15'

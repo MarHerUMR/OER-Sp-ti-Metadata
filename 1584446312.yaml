@@ -1,0 +1,24 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: 'Unsere gemeinsame digitale Zukunft: WBGU Positionen zur Digitalisierung für
+  nachhaltige Gesellschaften'
+description: ''
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://tu-darmstadt.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ab38076b-26a2-4556-9080-b061010b857a
+creator:
+- givenName: Ellen
+  familyName: Matthies
+  type: Person
+  affiliation: ''
+keywords:
+- Digitalisierung
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n148
+learningResourceType:
+- https://w3id.org/kim/hcrt/video
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-03-17'

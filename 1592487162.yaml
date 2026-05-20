@@ -1,0 +1,27 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Lernkartei-Plattform »Linux.cards – Lernen für die LPI-Prüfungen«
+description: ''
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://linux.cards
+creator:
+- givenName: Klaus
+  familyName: Quibeldey-Cirkel
+  type: Person
+  affiliation: ''
+keywords:
+- Linux
+- LPI
+- Lernkartei
+- Zertifizierung
+- HessenHub-Förderlinie
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n71
+learningResourceType:
+- https://w3id.org/kim/hcrt/course
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-06-09'

@@ -1,0 +1,63 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Die Sprache Mathematik als wesentlichen Bestandteil des Studiums im MINT-Bereich
+  erfahren
+description: ''
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://h-da.de/digll
+creator:
+- givenName: Angelika
+  familyName: Schösser
+  type: Person
+  affiliation: ''
+- givenName: Sandra
+  familyName: Hartl
+  type: Person
+  affiliation: ''
+- givenName: Dietrich
+  familyName: Weber
+  type: Person
+  affiliation: ''
+- givenName: Martin
+  familyName: Moneke
+  type: Person
+  affiliation: ''
+- givenName: Sebastian
+  familyName: Schöps
+  type: Person
+  affiliation: ''
+- givenName: Michael
+  familyName: Muma
+  type: Person
+  affiliation: ''
+keywords:
+- algorithmische Optimierung
+- digitale Bildverarbeitung
+- Resonanz und Tilgung
+- Diskretisierung
+- Gauß-Algorithmus
+- Taylor-Reihe
+- Gauß'sche Glockenkurve
+- Logarithmengesetze
+- Gauß'sche Likelihood-Funktion
+- Charakteristisches Polynom und Eigenwerte
+- singuläre Matrix
+- gekoppelte lineare Differentialgleichungen
+- Jacobi-Matrix
+- Newton-Verfahren
+- nichtlineare algebraische Gleichungssysteme
+- Gradient
+- partielle Ableitungen
+- Faltung
+- Filtermatrix
+- HessenHub-Förderlinie
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n8
+learningResourceType:
+- https://w3id.org/kim/hcrt/video
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2021-01-27'

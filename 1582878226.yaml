@@ -1,0 +1,23 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Der Umsturz des Ödipalen. Ein feministisches Dilemma
+description: ''
+license: https://creativecommons.org/licenses/by-sa/3.0/de/deed.de
+id: http://podcast-kombinat.de/rv-07-16-tove-soiland-der-umsturz-des-oedipalen-ein-feministisches-dilemma/
+creator:
+- givenName: Tove
+  familyName: Soiland
+  type: Person
+  affiliation: ''
+keywords:
+- Ringvorlesung Genderzentrum Marburg 2016
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n26
+learningResourceType:
+- https://w3id.org/kim/hcrt/audio
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-02-28'

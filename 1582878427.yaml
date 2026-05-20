@@ -1,0 +1,26 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: '16. GI VR/AR Workshop - Keynote 2: VR in China'
+description: ''
+license: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
+id: https://mediasrv.hs-fulda.de/FBAI/public/FAI2019/Tag2/09/index.html
+creator:
+- givenName: Jinyuan
+  familyName: Jia
+  type: Person
+  affiliation: ''
+keywords:
+- Hochschule Fulda
+- Workshop
+- Virtuelle Realität
+- Augmented Reality
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n71
+learningResourceType:
+- https://w3id.org/kim/hcrt/video
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-02-28'

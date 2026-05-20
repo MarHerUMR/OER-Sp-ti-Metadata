@@ -1,0 +1,27 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: NoSQLconcepts - Digitales Lerntool für die Datenbanklehre
+description: ''
+license: https://github.com/VaneMeyer/nosqlconcepts/blob/main/LICENSE
+id: https://github.com/VaneMeyer/nosqlconcepts
+creator:
+- givenName: Vanessa
+  familyName: Meyer
+  type: Person
+  affiliation: ''
+- givenName: Lena
+  familyName: Wiese
+  type: Person
+  affiliation: ''
+keywords:
+- OER-Preis
+inLanguage:
+- en
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n079
+learningResourceType:
+- https://w3id.org/kim/hcrt/application
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2025-10-07'

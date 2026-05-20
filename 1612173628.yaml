@@ -1,0 +1,31 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Planung von Lernprozessen im Informatikunterricht
+description: ''
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://digll.informatik.uni-giessen.de/
+creator:
+- givenName: PD Dr. Matthias
+  familyName: Wendlandt
+  type: Person
+  affiliation: ''
+- givenName: Steffen
+  familyName: Burk
+  type: Person
+  affiliation: ''
+- givenName: Jan
+  familyName: Staudinger
+  type: Person
+  affiliation: ''
+keywords:
+- HessenHub-Förderlinie
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n71
+learningResourceType:
+- https://w3id.org/kim/hcrt/web_page
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2021-01-29'

@@ -1,0 +1,27 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Botanik goes Geisenheim
+description: ''
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://ilias.hs-gm.de/goto.php/sahs/21134
+creator:
+- givenName: Susanne
+  familyName: Tittmann
+  type: Person
+  affiliation: ''
+- givenName: Rita
+  familyName: Broschek
+  type: Person
+  affiliation: ''
+keywords:
+- OER-Preis
+inLanguage:
+- en
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n7
+learningResourceType:
+- https://w3id.org/kim/hcrt/course
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2025-09-12'

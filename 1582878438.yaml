@@ -1,0 +1,22 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Begehren Queer Theoretisch (Audio File)
+description: ''
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://tu-darmstadt.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=adaf1935-3704-4159-8b02-b061010e44ca
+creator:
+- givenName: Engel
+  familyName: Antke
+  type: Person
+  affiliation: ''
+keywords: []
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n149
+learningResourceType:
+- https://w3id.org/kim/hcrt/audio
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-02-28'

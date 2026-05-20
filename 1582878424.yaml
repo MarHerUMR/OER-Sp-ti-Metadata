@@ -1,0 +1,24 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: 'Gender Studies: Unwissenschaftlich, ideologisch, quasireligiös? Marginalisierungs-
+  und Stigmatisierungsdiskurse in der Scientific Community'
+description: ''
+license: https://creativecommons.org/licenses/by-sa/3.0/de/deed.de
+id: http://podcast-kombinat.de/rv-07-17-marion-naeser-lather-gender-studies-unwissenschaftlich-ideologisch-quasireligioes-marginalisierungs-und-stigmatisierungsdiskurse-in-der-scientific-community/
+creator:
+- givenName: Marion
+  familyName: Näser-Lather
+  type: Person
+  affiliation: ''
+keywords:
+- Ringvorlesung Genderzentrum Marburg 2017
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n26
+learningResourceType:
+- https://w3id.org/kim/hcrt/audio
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-02-28'

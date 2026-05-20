@@ -1,0 +1,25 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Interkulturelle Öffnungen/Diversity - eine Möglichkeit für mehr Partizipation
+  in den Betrieben?
+description: ''
+license: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
+id: https://tu-darmstadt.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4ca79d56-57a9-4436-8e94-b062008c38ed
+creator:
+- givenName: Petra
+  familyName: Wleckik
+  type: Person
+  affiliation: ''
+keywords:
+- Diversity
+- Arbeitskultur
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n30
+learningResourceType:
+- https://w3id.org/kim/hcrt/course
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-03-23'

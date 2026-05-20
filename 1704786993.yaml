@@ -1,0 +1,26 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Wissenschaftliche Schreibprozesse
+description: ''
+license: https://creativecommons.org/licenses/by-nd/4.0/deed.de
+id: https://www.youtube.com/watch?v=rUaLrbCNJGc
+creator:
+- givenName: Alexander
+  familyName: Kaib
+  type: Person
+  affiliation: ''
+keywords:
+- Wissenschaftlicher Schreibprozess
+- Schreiben
+- Schreibtechnik
+- Interview
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n01
+learningResourceType:
+- https://w3id.org/kim/hcrt/video
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2024-01-07'

@@ -1,0 +1,23 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Antifeminismus in der radikalen und extremen Rechten
+description: ''
+license: https://creativecommons.org/licenses/by-sa/3.0/de/deed.de
+id: http://podcast-kombinat.de/rv-03-17-ursula-birsl-antifeminismus-in-der-radikalen-und-extremen-rechten/
+creator:
+- givenName: Ursula
+  familyName: Birsl
+  type: Person
+  affiliation: ''
+keywords:
+- Ringvorlesung Genderzentrum Marburg 2017
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n26
+learningResourceType:
+- https://w3id.org/kim/hcrt/audio
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-02-28'

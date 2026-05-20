@@ -1,0 +1,28 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: MC24 - Jumps, Single Operand Instructions
+description: ''
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://hs-rm.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=cb4006c5-911d-4eb5-b1ce-ae5a00d32cad
+creator:
+- givenName: Matthias
+  familyName: Harter
+  type: Person
+  affiliation: ''
+keywords:
+- Mikrocomputertechnik
+- Rechnerarchitektur
+- Mikroprozessortechnik
+- Assembler
+- MSP430
+- Mikrocontroller
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n123
+learningResourceType:
+- https://w3id.org/kim/hcrt/course
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2023-07-19'

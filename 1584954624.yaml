@@ -1,0 +1,24 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Das Zeitalter der Compliance
+description: ''
+license: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
+id: https://tu-darmstadt.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f6c66144-57c0-43ed-bf8e-b062008ccb40
+creator:
+- givenName: Janine
+  familyName: Wendt
+  type: Person
+  affiliation: ''
+keywords:
+- Legal
+- Compliance
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n30
+learningResourceType:
+- https://w3id.org/kim/hcrt/course
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-03-23'

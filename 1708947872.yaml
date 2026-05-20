@@ -1,0 +1,73 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: 'Lived experience informing theory and practice in inclusive EFL: Resources
+  for teacher education'
+description: ''
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://lernbar.uni-frankfurt.de/CaroBlume/ELLeN
+creator:
+- givenName: Carolyn
+  familyName: Blume
+  type: Person
+  affiliation: ''
+  id: https://orcid.org/0000-0002-4788-593X
+- givenName: Jules
+  familyName: Buendgens-Kosten
+  type: Person
+  affiliation: ''
+  id: https://orcid.org/0000-0003-2852-8539
+- givenName: Raúl Enrique
+  familyName: García López
+  type: Person
+  affiliation: ''
+- givenName: Julia
+  familyName: Huettner
+  type: Person
+  affiliation: ''
+  id: https://orcid.org/0000-0002-5130-777X
+- givenName: Michelle
+  familyName: Proyer
+  type: Person
+  affiliation: ''
+  id: https://orcid.org/0000-0002-0100-7154
+- givenName: Manuela
+  familyName: Schlick
+  type: Person
+  affiliation: ''
+  id: https://orcid.org/0000-0001-6790-6868
+- givenName: Geert
+  familyName: van Hove
+  type: Person
+  affiliation: ''
+  id: https://orcid.org/0000-0003-3266-052
+- givenName: Rieke
+  familyName: Dieckhoff
+  type: Person
+  affiliation: ''
+- givenName: Pasquale
+  familyName: Uferkamp
+  type: Person
+  affiliation: ''
+- givenName: Nicole
+  familyName: Gotling
+  type: Person
+  affiliation: ''
+  id: https://orcid.org/0000-0002-3302-1276
+keywords:
+- Teacher education
+- EFL
+- Neurodiversity
+- Autism
+- ADHD
+- Dyslexia
+- participatory research
+inLanguage:
+- en
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n008
+learningResourceType:
+- https://w3id.org/kim/hcrt/course
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2024-02-13'

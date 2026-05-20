@@ -1,0 +1,37 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Creating interactive content with Jupyter Books
+description: ''
+license: https://github.com/DiLER-Digitell/tutorial_jupyter_books/blob/main/LICENSE
+id: https://diler-digitell.github.io/tutorial_jupyter_books/
+creator:
+- givenName: Lucie
+  familyName: Binder
+  type: Person
+  affiliation: ''
+  id: https://orcid.org/0000-0002-4569-2034
+- givenName: Michael
+  familyName: Ernst
+  type: Person
+  affiliation: ''
+  id: https://orcid.org/0009-0005-5956-5203
+- givenName: Jannika
+  familyName: Hollman
+  type: Person
+  affiliation: ''
+- givenName: Nariman
+  familyName: Utegaliyev
+  type: Person
+  affiliation: ''
+keywords:
+- OER-Preis
+inLanguage:
+- en
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n3
+learningResourceType:
+- https://w3id.org/kim/hcrt/course
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2025-10-14'

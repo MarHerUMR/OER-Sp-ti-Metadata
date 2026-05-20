@@ -1,0 +1,43 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: 'Schulunterricht: Textvisualisierung mit Voyant unterrichten'
+description: ''
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://journal.fortext.org/article/id/3774/
+creator:
+- givenName: Marie
+  familyName: Flüh
+  type: Person
+  affiliation: ''
+keywords:
+- Schulunterricht
+- Quantitative Textanalyse
+- Distant Reading
+- Diagramme
+- Exploration
+- Most Frequent Words (MFW)
+- Text Mining
+- Textvisualisierung
+- Digitale Lehre
+- Digital Humanities
+- Forschendes Lernen
+- Digitale Textanalyse
+- Digitale Geisteswissenschaften
+- Germanistik
+- Literaturwissenschaft
+- Sprachwissenschaft
+- Geisteswissenschaften
+- Zeitschrift
+- Lehrmodul
+- Tools
+- Methoden
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n1
+learningResourceType:
+- https://w3id.org/kim/hcrt/lesson_plan
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2024-08-07'

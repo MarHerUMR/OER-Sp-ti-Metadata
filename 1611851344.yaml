@@ -1,0 +1,58 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: WeBierNar
+description: ''
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://ilias.hs-gm.de/goto.php?target=crs_5752&client_id=iliasprod
+creator:
+- givenName: Max
+  familyName: Retterrath
+  type: Person
+  affiliation: ''
+- givenName: Isabell
+  familyName: Kötter
+  type: Person
+  affiliation: ''
+- givenName: Eike
+  familyName: Ahlers
+  type: Person
+  affiliation: ''
+- givenName: Tim
+  familyName: Perscheid
+  type: Person
+  affiliation: ''
+- givenName: Stefan
+  familyName: Schildbach
+  type: Person
+  affiliation: ''
+- givenName: Bernd
+  familyName: Lindemann
+  type: Person
+  affiliation: ''
+- givenName: Yasmin
+  familyName: Peters
+  type: Person
+  affiliation: ''
+keywords:
+- Biochemie
+- Biotechnologie
+- Brauwesen
+- Getränketechnologie
+- Bier
+- Mälzen
+- Brauerei Kostentheorie
+- Kostenarten
+- Lernmodule
+- Selbstkontrolle
+- Tests
+- HessenHub-Förderlinie
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n028
+learningResourceType:
+- https://w3id.org/kim/hcrt/course
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2021-01-28'

@@ -1,0 +1,24 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: The Art and Science of Transportation Research in the AI Era
+description: ''
+license: https://github.com/caimeng2/ASTRAI/blob/main/LICENSE
+id: https://github.com/caimeng2/ASTRAI-WiSe25-26
+creator:
+- givenName: Meng
+  familyName: Cai
+  type: Person
+  affiliation: ''
+  id: https://orcid.org/0000-0002-8318-572X
+keywords:
+- OER-Preis
+inLanguage:
+- en
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n68
+learningResourceType:
+- https://w3id.org/kim/hcrt/course
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2025-09-30'

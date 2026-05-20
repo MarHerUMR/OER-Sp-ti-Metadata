@@ -1,0 +1,39 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: 'Toolbeitrag: Gephi'
+description: ''
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://journal.fortext.org/article/id/3783/
+creator:
+- givenName: Mareike
+  familyName: Schumacher
+  type: Person
+  affiliation: ''
+keywords:
+- Netzwerkanalyse
+- Tools
+- Distant Reading
+- Figurennetzwerke
+- Social Network Analysis
+- Digitale Lehre
+- Digital Humanities
+- Forschendes Lernen
+- Digitale Textanalyse
+- Digitale Geisteswissenschaften
+- Germanistik
+- Literaturwissenschaft
+- Sprachwissenschaft
+- Geisteswissenschaften
+- Zeitschrift
+- Lehrmodul
+- Methoden
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n1
+learningResourceType:
+- https://w3id.org/kim/hcrt/course
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2024-08-30'

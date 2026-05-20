@@ -1,0 +1,28 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: MC33 - C-Programmbeispiel übersetzt in Assembler
+description: ''
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://hs-rm.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c5c3f871-e516-4a2a-a6aa-ae5a00d3ade4
+creator:
+- givenName: Matthias
+  familyName: Harter
+  type: Person
+  affiliation: ''
+keywords:
+- Mikrocomputertechnik
+- Rechnerarchitektur
+- Mikroprozessortechnik
+- Assembler
+- MSP430
+- Mikrocontroller
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n123
+learningResourceType:
+- https://w3id.org/kim/hcrt/course
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2023-07-19'

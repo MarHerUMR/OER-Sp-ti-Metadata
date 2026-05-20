@@ -1,0 +1,22 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: 'Vorlesung 25: Gesetze der großen Zahlen (29.02.2020)'
+description: ''
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://tu-darmstadt.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=15fc7fe9-5278-4feb-8c54-b0610109ca82&pid=df38171e-816f-4d98-a463-b061010ac767&start=0.010301
+creator:
+- givenName: Michael
+  familyName: Kohler
+  type: Person
+  affiliation: ''
+keywords: []
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n237
+learningResourceType:
+- https://w3id.org/kim/hcrt/video
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-02-28'

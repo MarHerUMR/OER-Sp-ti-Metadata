@@ -1,0 +1,23 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Adaptive Selbstlerneinheit zu Arrays
+description: ''
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://openlearnware.tu-darmstadt.de/resource/adaptive-selbstlerneinheit-zu-arrays-5100?start=0
+creator:
+- givenName: Svana
+  familyName: Esche
+  type: Person
+  affiliation: ''
+  id: https://orcid.org/0000-0002-5180-4856
+keywords: []
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n079
+learningResourceType:
+- https://w3id.org/kim/hcrt/drill_and_practice
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2023-07-04'

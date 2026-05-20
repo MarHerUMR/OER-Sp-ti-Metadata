@@ -1,0 +1,24 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Systematische Problemlösung technischer Qualitätsprobleme
+description: ''
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
+id: https://hs-rm.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=983a15e4-484f-492f-924b-adb901586a6d
+creator:
+- givenName: Irina
+  familyName: Mazilu-Eyaz
+  type: Person
+  affiliation: ''
+keywords:
+- Qualitätsmanagement
+- Problemsolving
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n072
+learningResourceType:
+- https://w3id.org/kim/hcrt/video
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2022-03-04'

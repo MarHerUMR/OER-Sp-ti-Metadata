@@ -1,0 +1,30 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Auf den Spuren empirischer Evidenz in der Bildungsforschung
+description: ''
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://ilias.uni-marburg.de/ilias.php?ref_id=2153225&cmdClass=ilobjcoursegui&cmd=view&cmdNode=wi:le&baseClass=ilrepositorygui
+creator:
+- givenName: Julia
+  familyName: Gorges
+  type: Person
+  affiliation: ''
+- givenName: Mark
+  familyName: Ullrich
+  type: Person
+  affiliation: ''
+keywords:
+- Empirische Bildungsforschung
+- Forschungsmethoden
+- Wissenschaftliches Arbeiten
+- HessenHub-Förderlinie
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n33
+learningResourceType:
+- https://w3id.org/kim/hcrt/course
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-12-14'

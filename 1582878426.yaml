@@ -1,0 +1,24 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Kommunikations Theorie - Veranstaltung 01
+description: ''
+license: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
+id: https://mediasrv.hs-fulda.de/FBSK/vorles/ws0910/Komm_Theorie/VL1/kommtheorie_lva1.html
+creator:
+- givenName: Werner
+  familyName: Pfab
+  type: Person
+  affiliation: ''
+keywords:
+- Kommunikation
+- Kommunikationsbegriff
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n3
+learningResourceType:
+- https://w3id.org/kim/hcrt/video
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-02-28'

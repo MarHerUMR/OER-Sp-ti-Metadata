@@ -1,0 +1,53 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Medienkompetenz Geoinformatik
+description: ''
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://geomoer.github.io/moer-meko/
+creator:
+- givenName: Rieke
+  familyName: Ammoneit
+  type: Person
+  affiliation: ''
+- givenName: Kevin
+  familyName: Dippell
+  type: Person
+  affiliation: ''
+- givenName: Jonas
+  familyName: Beckmann
+  type: Person
+  affiliation: ''
+- givenName: David
+  familyName: Langenohl
+  type: Person
+  affiliation: ''
+- givenName: Thomas
+  familyName: Nauss
+  type: Person
+  affiliation: ''
+- givenName: Carina
+  familyName: Peter
+  type: Person
+  affiliation: ''
+- givenName: Christoph
+  familyName: Reudenbach
+  type: Person
+  affiliation: ''
+- givenName: Alice
+  familyName: Ziegler
+  type: Person
+  affiliation: ''
+keywords:
+- Einführung
+- Geomedien
+- HessenHub-Förderlinie
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n050
+learningResourceType:
+- https://w3id.org/kim/hcrt/course
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2021-02-02'

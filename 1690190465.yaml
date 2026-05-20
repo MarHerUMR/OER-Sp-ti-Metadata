@@ -1,0 +1,28 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: MC28 - Indirect Register Mode, Indirect Autoincrement Mode, Immediate Mode
+description: ''
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://hs-rm.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=cf14769b-5302-4fac-8be9-ae5a00d33fb3
+creator:
+- givenName: Matthias
+  familyName: Harter
+  type: Person
+  affiliation: ''
+keywords:
+- Mikrocomputertechnik
+- Rechnerarchitektur
+- Mikroprozessortechnik
+- Assembler
+- MSP430
+- Mikrocontroller
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n123
+learningResourceType:
+- https://w3id.org/kim/hcrt/course
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2023-07-19'

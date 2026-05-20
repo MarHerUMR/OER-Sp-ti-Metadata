@@ -1,0 +1,23 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Black lives matter - Gewalt, Geschlecht und Bürgerrechte in den USA
+description: ''
+license: https://creativecommons.org/licenses/by-sa/3.0/de/deed.de
+id: http://podcast-kombinat.de/rv-03-16-anke-ortlepp-black-lives-matter-gewalt-geschlecht-und-buergerrechte-in-den-usa/
+creator:
+- givenName: Anke
+  familyName: Ortlepp
+  type: Person
+  affiliation: ''
+keywords:
+- Ringvorlesung Genderzentrum Marburg 2016
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n26
+learningResourceType:
+- https://w3id.org/kim/hcrt/audio
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-02-28'

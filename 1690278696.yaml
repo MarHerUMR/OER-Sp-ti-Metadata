@@ -1,0 +1,25 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: InSmart Chemie – Inhalte für Smartboards im Fach Chemie
+description: ''
+license: https://creativecommons.org/licenses/by-nc/4.0/deed.de
+id: https://ilias.uni-marburg.de/goto.php?target=crs_2524479&client_id=UNIMR
+creator:
+- givenName: Philipp
+  familyName: Reiß
+  type: Person
+  affiliation: ''
+keywords:
+- Präsentieren im Fach Chemie
+- Digitaler Chemieunterricht
+- OER
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n032
+learningResourceType:
+- https://w3id.org/kim/hcrt/course
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2023-07-24'

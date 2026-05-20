@@ -1,0 +1,41 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Virale Gesellschaftskonstruktionen
+description: ''
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
+id: https://vigebi.geomedienlabor.de/doku.php?id=oer:description
+creator:
+- givenName: Isabelle
+  familyName: Muschaweck
+  type: Person
+  affiliation: ''
+- givenName: Tobias
+  familyName: Kubitza
+  type: Person
+  affiliation: ''
+- givenName: David
+  familyName: Falkenstein
+  type: Person
+  affiliation: ''
+- givenName: Stefanie
+  familyName: Zink
+  type: Person
+  affiliation: ''
+- givenName: Lotte
+  familyName: Schmerbach
+  type: Person
+  affiliation: ''
+keywords:
+- gesellschaftswissenschaftliche Lehrkräftebildung
+- digitalisierte Bildungsprozesse
+- soziale Netzwerke
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n26
+learningResourceType:
+- https://w3id.org/kim/hcrt/worksheet
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2022-03-15'

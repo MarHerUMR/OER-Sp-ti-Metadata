@@ -1,0 +1,23 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Medien als Querschnittsaufgabe – Bildungspolitik
+description: ''
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://tu-darmstadt.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ff4c45e6-6b3d-43c3-8206-b0610119b83a
+creator:
+- givenName: Petra
+  familyName: Grell
+  type: Person
+  affiliation: ''
+keywords:
+- Informationspädagogik
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n33
+learningResourceType:
+- https://w3id.org/kim/hcrt/video
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-02-28'

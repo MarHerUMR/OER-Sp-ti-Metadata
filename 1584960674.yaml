@@ -1,0 +1,24 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Zeitbombe Arbeitsstress – warum wir eine Anti-Stress-Initiative brauchen
+description: ''
+license: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
+id: https://tu-darmstadt.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b27ae90e-6461-49ff-ad44-b06200b08749
+creator:
+- givenName: Petra
+  familyName: Müller-Knöss
+  type: Person
+  affiliation: ''
+keywords:
+- Stress
+- Arbeitssoziologie
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n149
+learningResourceType:
+- https://w3id.org/kim/hcrt/course
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-03-23'

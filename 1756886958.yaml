@@ -1,0 +1,30 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Social Reading
+description: ''
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://ilias.uni-marburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=4405474
+creator:
+- givenName: Sophia
+  familyName: Völlinger
+  type: Person
+  affiliation: ''
+keywords:
+- Medienreflexionskompetenz (MRK)
+- Unterrichtsmaterial
+- Social Media
+- BookTok
+- Bookstagram
+- Social Reading
+- Literarisches Lernen
+- OER-Preis
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n302
+learningResourceType:
+- https://w3id.org/kim/hcrt/lesson_plan
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2025-09-02'

@@ -1,0 +1,22 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Analyse und Synthese technischer Systeme WiSe 16/17
+description: ''
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://openlearnware.tu-darmstadt.de/collection/analyse-und-synthese-technischer-systeme-wise-16-17-246/
+creator:
+- givenName: Pelz
+  familyName: Peter F.
+  type: Person
+  affiliation: ''
+keywords: []
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n63
+learningResourceType:
+- https://w3id.org/kim/hcrt/video
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-02-28'

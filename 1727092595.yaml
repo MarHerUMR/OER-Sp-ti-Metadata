@@ -1,0 +1,45 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Gaming und Kostenfallen (Unterrichtsmaterialien für den Schulunterricht)
+description: ''
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://ilias.uni-marburg.de/goto.php?target=cat_4065538&client_id=UNIMR
+creator:
+- givenName: Daniel
+  familyName: Monz
+  type: Person
+  affiliation: ''
+- givenName: Annabell
+  familyName: Sent
+  type: Person
+  affiliation: ''
+- givenName: Bastian
+  familyName: Welbers
+  type: Person
+  affiliation: ''
+- givenName: Christopher
+  familyName: Jordanland
+  type: Person
+  affiliation: ''
+- givenName: Niklas
+  familyName: Krimmel
+  type: Person
+  affiliation: ''
+- givenName: Caroline
+  familyName: Mußmacher
+  type: Person
+  affiliation: ''
+keywords:
+- Medienreflexionskompetenz (MRK)
+- Materialsammlung
+- Unterrichtsmaterial für Schulen
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n302
+learningResourceType:
+- https://w3id.org/kim/hcrt/worksheet
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2024-09-13'

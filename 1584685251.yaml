@@ -1,0 +1,29 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Machine Learning vom 28.10.19
+description: ''
+license: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
+id: https://mediasrv.hs-fulda.de/FBAI/vorles/ws1920/machinelearning/02/index.html
+creator:
+- givenName: Alexander
+  familyName: Gepperth
+  type: Person
+  affiliation: ''
+keywords:
+- Vorlesung
+- numpy
+- numpy arrays
+- arrays
+- Broadcasting
+- MNIST
+- MNIST data format
+inLanguage:
+- en
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n71
+learningResourceType:
+- https://w3id.org/kim/hcrt/video
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-03-20'

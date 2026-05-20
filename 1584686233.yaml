@@ -1,0 +1,27 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Machine Learning vom 02.12.19
+description: ''
+license: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
+id: https://mediasrv.hs-fulda.de/FBAI/vorles/ws1920/machinelearning/07/index.html
+creator:
+- givenName: Alexander
+  familyName: Gepperth
+  type: Person
+  affiliation: ''
+keywords:
+- Vorlesung
+- Convolutional dnn layers
+- recap
+- max-pooling
+- vgg-16
+inLanguage:
+- en
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n71
+learningResourceType:
+- https://w3id.org/kim/hcrt/video
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-03-20'

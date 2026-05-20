@@ -1,0 +1,30 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Machine Learning vom 25.11.19
+description: ''
+license: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
+id: https://mediasrv.hs-fulda.de/FBAI/vorles/ws1920/machinelearning/06/index.html
+creator:
+- givenName: Alexander
+  familyName: Gepperth
+  type: Person
+  affiliation: ''
+keywords:
+- Vorlesung
+- single-sample notation
+- multi-sample notation
+- deep learning
+- dnn
+- deep neural networks
+- notation
+- notation for dnns
+inLanguage:
+- en
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n71
+learningResourceType:
+- https://w3id.org/kim/hcrt/video
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-02-28'

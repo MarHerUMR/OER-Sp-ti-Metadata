@@ -1,0 +1,40 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: 'Lerneinheit: Textvisualisierung mit Voyant'
+description: ''
+license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+id: https://journal.fortext.org/article/id/3773/
+creator:
+- givenName: Marie
+  familyName: Flüh
+  type: Person
+  affiliation: ''
+keywords:
+- Visualisierung
+- Lerneinheiten
+- Distant Reading
+- Korpusanalyse
+- Diagramme
+- Digitale Lehre
+- Digital Humanities
+- Forschendes Lernen
+- Digitale Textanalyse
+- Digitale Geisteswissenschaften
+- Germanistik
+- Literaturwissenschaft
+- Sprachwissenschaft
+- Geisteswissenschaften
+- Zeitschrift
+- Lehrmodul
+- Tools
+- Methoden
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n1
+learningResourceType:
+- https://w3id.org/kim/hcrt/course
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2024-08-07'

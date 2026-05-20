@@ -1,0 +1,25 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Viel mehr Tempo! Wir brauchen deutlich mehr Tempo – Wie sich die Arbeitswelt
+  verändert hat
+description: ''
+license: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
+id: https://tu-darmstadt.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1fe48ebc-a899-44c3-8e7d-b06200b00cc8
+creator:
+- givenName: Michaela
+  familyName: Böhm
+  type: Person
+  affiliation: ''
+keywords:
+- Change Management
+- Arbeitswelt
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n30
+learningResourceType:
+- https://w3id.org/kim/hcrt/course
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-03-23'

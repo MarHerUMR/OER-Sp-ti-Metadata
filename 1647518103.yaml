@@ -1,0 +1,22 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Virtual Reality in der Hochschullehre
+description: ''
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
+id: https://www.youtube.com/watch?v=a_D_hRClZYA&t=11s
+creator:
+- givenName: Eva
+  familyName: Dabrowski
+  type: Person
+  affiliation: ''
+keywords: []
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n302
+learningResourceType:
+- https://w3id.org/kim/hcrt/video
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2022-03-15'

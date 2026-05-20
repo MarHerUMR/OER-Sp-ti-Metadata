@@ -1,0 +1,23 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Interview mit Prof. Dipl.-Ing. Julian Wekel, Fachgebiet Entwerfen und Stadtplanung
+description: ''
+license: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
+id: https://tu-darmstadt.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=39871675-4686-4a36-b187-b061018aa123
+creator:
+- givenName: Julian
+  familyName: Wekel
+  type: Person
+  affiliation: ''
+keywords:
+- InterCity15
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n013
+learningResourceType:
+- https://w3id.org/kim/hcrt/video
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-03-19'

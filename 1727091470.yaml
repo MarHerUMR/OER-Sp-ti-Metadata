@@ -1,0 +1,24 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Courses in the Lab of Environmental Informatics Marburg
+description: ''
+license: https://creativecommons.org/licenses/by-nc/4.0/deed.de
+id: https://geomoer.github.io/moer-info-page/courses.html
+creator:
+- givenName: Dirk
+  familyName: Zeuss
+  type: Person
+  affiliation: ''
+  id: https://orcid.org/0000-0001-6457-2866
+keywords:
+- Environmental Informatics
+inLanguage:
+- en
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n44
+learningResourceType:
+- https://w3id.org/kim/hcrt/web_page
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2024-09-02'

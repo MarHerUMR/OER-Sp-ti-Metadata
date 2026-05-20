@@ -1,0 +1,26 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Die Gemeinwohl-Ökonomie - Theorie und Praxis - Vortrag von Christian Felber
+description: ''
+license: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
+id: https://mediasrv.hs-fulda.de/HS/cesst2019/02/index.html
+creator:
+- givenName: Christian
+  familyName: Felber
+  type: Person
+  affiliation: ''
+keywords:
+- Ökosystem
+- Systemische Krisenlandschaft
+- Wirtschaft
+- Gemeinwohl
+inLanguage:
+- de
+about:
+- https://w3id.org/kim/hochschulfaechersystematik/n30
+learningResourceType:
+- https://w3id.org/kim/hcrt/video
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2020-02-28'
