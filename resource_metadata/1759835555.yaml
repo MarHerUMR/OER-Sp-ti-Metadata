@@ -3,7 +3,7 @@ creativeWorkStatus: Published
 type: LearningResource
 name: NoSQLconcepts - Digitales Lerntool für die Datenbanklehre
 description: ''
-license: https://github.com/VaneMeyer/nosqlconcepts/blob/main/LICENSE
+license: https://opensource.org/license/mit
 id: https://github.com/VaneMeyer/nosqlconcepts
 creator:
 - givenName: Vanessa

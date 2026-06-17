@@ -3,7 +3,7 @@ creativeWorkStatus: Published
 type: LearningResource
 name: Logica Tactica
 description: ''
-license: https://github.com/Ethanil/LogicaTactica/blob/main/LICENSE
+license: https://opensource.org/license/mit
 id: https://github.com/Ethanil/LogicaTactica
 creator:
 - givenName: Ruben

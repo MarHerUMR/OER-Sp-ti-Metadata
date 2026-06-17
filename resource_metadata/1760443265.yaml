@@ -3,7 +3,7 @@ creativeWorkStatus: Published
 type: LearningResource
 name: Creating interactive content with Jupyter Books
 description: ''
-license: https://github.com/DiLER-Digitell/tutorial_jupyter_books/blob/main/LICENSE
+license: https://opensource.org/license/bsd-3-clause
 id: https://diler-digitell.github.io/tutorial_jupyter_books/
 creator:
 - givenName: Lucie

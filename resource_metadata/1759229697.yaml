@@ -3,7 +3,7 @@ creativeWorkStatus: Published
 type: LearningResource
 name: The Art and Science of Transportation Research in the AI Era
 description: ''
-license: https://github.com/caimeng2/ASTRAI/blob/main/LICENSE
+license: https://www.gnu.org/licenses/gpl-3.0.txt
 id: https://github.com/caimeng2/ASTRAI-WiSe25-26
 creator:
 - givenName: Meng
