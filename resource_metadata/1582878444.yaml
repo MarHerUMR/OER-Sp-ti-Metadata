@@ -6,17 +6,22 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/3.0/de/deed.de
 id: http://podcast-kombinat.de/podcasts/gender-zentrum/rv-01-17-lenz-vom_neuen_antifeminismus_zum_antigenderismus-diskurse_und_akteure.mp3
 creator:
-- givenName: Ilse
-  familyName: Lenz
-  type: Person
-  affiliation: ''
+  - givenName: Ilse
+    familyName: Lenz
+    type: Person
+    affiliation: ''
 keywords: []
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n26
+  - https://w3id.org/kim/hochschulfaechersystematik/n26
 learningResourceType:
-- https://w3id.org/kim/hcrt/audio
+  - https://w3id.org/kim/hcrt/audio
+image: type_preview/audio.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2020-02-28'
+sourceOrganization:
+  - name: Universität Marburg
+    type: Organization
+    id: https://www.uni-marburg.de

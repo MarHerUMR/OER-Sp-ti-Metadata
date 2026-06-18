@@ -6,40 +6,45 @@ description: ''
 license: https://creativecommons.org/licenses/by/4.0/deed.de
 id: https://ilias.uni-marburg.de/goto.php?target=cat_4065538&client_id=UNIMR
 creator:
-- givenName: Daniel
-  familyName: Monz
-  type: Person
-  affiliation: ''
-- givenName: Annabell
-  familyName: Sent
-  type: Person
-  affiliation: ''
-- givenName: Bastian
-  familyName: Welbers
-  type: Person
-  affiliation: ''
-- givenName: Christopher
-  familyName: Jordanland
-  type: Person
-  affiliation: ''
-- givenName: Niklas
-  familyName: Krimmel
-  type: Person
-  affiliation: ''
-- givenName: Caroline
-  familyName: Mußmacher
-  type: Person
-  affiliation: ''
+  - givenName: Daniel
+    familyName: Monz
+    type: Person
+    affiliation: ''
+  - givenName: Annabell
+    familyName: Sent
+    type: Person
+    affiliation: ''
+  - givenName: Bastian
+    familyName: Welbers
+    type: Person
+    affiliation: ''
+  - givenName: Christopher
+    familyName: Jordanland
+    type: Person
+    affiliation: ''
+  - givenName: Niklas
+    familyName: Krimmel
+    type: Person
+    affiliation: ''
+  - givenName: Caroline
+    familyName: Mußmacher
+    type: Person
+    affiliation: ''
 keywords:
-- Medienreflexionskompetenz (MRK)
-- Materialsammlung
-- Unterrichtsmaterial für Schulen
+  - Medienreflexionskompetenz (MRK)
+  - Materialsammlung
+  - Unterrichtsmaterial für Schulen
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n302
+  - https://w3id.org/kim/hochschulfaechersystematik/n302
 learningResourceType:
-- https://w3id.org/kim/hcrt/worksheet
+  - https://w3id.org/kim/hcrt/worksheet
+image: type_preview/worksheet.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2024-09-13'
+sourceOrganization:
+  - name: Universität Marburg
+    type: Organization
+    id: https://www.uni-marburg.de

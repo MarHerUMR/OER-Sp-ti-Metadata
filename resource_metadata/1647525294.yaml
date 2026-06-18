@@ -7,37 +7,42 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc-nd/3.0/de/deed.de
 id: https://ilias.uni-marburg.de/goto.php?target=crs_2531140&client_id=UNIMR
 creator:
-- givenName: Ernst
-  familyName: Halbmayer
-  type: Person
-  affiliation: ''
-- givenName: Anne
-  familyName: Goletz
-  type: Person
-  affiliation: ''
-- givenName: Dagmar
-  familyName: Schweitzer de Palacios
-  type: Person
-  affiliation: ''
-- givenName: Achim
-  familyName: Hötzel
-  type: Person
-  affiliation: ''
-- givenName: Lena
-  familyName: Naranjo
-  type: Person
-  affiliation: ''
-- givenName: Lena
-  familyName: Muders
-  type: Person
-  affiliation: ''
+  - givenName: Ernst
+    familyName: Halbmayer
+    type: Person
+    affiliation: ''
+  - givenName: Anne
+    familyName: Goletz
+    type: Person
+    affiliation: ''
+  - givenName: Dagmar
+    familyName: Schweitzer de Palacios
+    type: Person
+    affiliation: ''
+  - givenName: Achim
+    familyName: Hötzel
+    type: Person
+    affiliation: ''
+  - givenName: Lena
+    familyName: Naranjo
+    type: Person
+    affiliation: ''
+  - givenName: Lena
+    familyName: Muders
+    type: Person
+    affiliation: ''
 keywords: []
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n173
+  - https://w3id.org/kim/hochschulfaechersystematik/n173
 learningResourceType:
-- https://w3id.org/kim/hcrt/other
+  - https://w3id.org/kim/hcrt/other
+image: type_preview/other.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2022-03-17'
+sourceOrganization:
+  - name: Universität Marburg
+    type: Organization
+    id: https://www.uni-marburg.de

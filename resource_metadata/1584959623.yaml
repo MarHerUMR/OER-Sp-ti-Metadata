@@ -7,19 +7,24 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
 id: https://tu-darmstadt.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1fe48ebc-a899-44c3-8e7d-b06200b00cc8
 creator:
-- givenName: Michaela
-  familyName: Böhm
-  type: Person
-  affiliation: ''
+  - givenName: Michaela
+    familyName: Böhm
+    type: Person
+    affiliation: ''
 keywords:
-- Change Management
-- Arbeitswelt
+  - Change Management
+  - Arbeitswelt
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n30
+  - https://w3id.org/kim/hochschulfaechersystematik/n30
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2020-03-23'
+sourceOrganization:
+  - name: Technische Universität Darmstadt
+    type: Organization
+    id: https://www.tu-darmstadt.de

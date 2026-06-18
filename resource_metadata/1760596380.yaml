@@ -6,17 +6,22 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
 id: https://wiki.studiumdigitale.uni-frankfurt.de/FB02_Mikro1/index.php/Hauptseite
 creator:
-- givenName: Olaf
-  familyName: Kehne
-  type: Person
-  affiliation: ''
+  - givenName: Olaf
+    familyName: Kehne
+    type: Person
+    affiliation: ''
 keywords: []
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n184
+  - https://w3id.org/kim/hochschulfaechersystematik/n184
 learningResourceType:
-- https://w3id.org/kim/hcrt/index
+  - https://w3id.org/kim/hcrt/index
+image: type_preview/index.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2025-10-16'
+sourceOrganization:
+  - name: Universität Frankfurt
+    type: Organization
+    id: https://www.uni-frankfurt.de/

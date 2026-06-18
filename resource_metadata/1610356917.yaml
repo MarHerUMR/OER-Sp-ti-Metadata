@@ -6,37 +6,42 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
 id: https://lernbar.uni-frankfurt.de/SWUK/Mon
 creator:
-- givenName: Dorit
-  familyName: Bosse
-  type: Person
-  affiliation: ''
-- givenName: Ilonca
-  familyName: Hardy
-  type: Person
-  affiliation: ''
-- givenName: Susanne
-  familyName: Mannel
-  type: Person
-  affiliation: ''
-- givenName: Stehle
-  familyName: Sebastian
-  type: Person
-  affiliation: ''
-- givenName: Sonja
-  familyName: Wedde
-  type: Person
-  affiliation: ''
+  - givenName: Dorit
+    familyName: Bosse
+    type: Person
+    affiliation: ''
+  - givenName: Ilonca
+    familyName: Hardy
+    type: Person
+    affiliation: ''
+  - givenName: Susanne
+    familyName: Mannel
+    type: Person
+    affiliation: ''
+  - givenName: Stehle
+    familyName: Sebastian
+    type: Person
+    affiliation: ''
+  - givenName: Sonja
+    familyName: Wedde
+    type: Person
+    affiliation: ''
 keywords:
-- Klassenführung
-- Monitoring
-- Professional Vision
-- Unterrichtsvideos
+  - Klassenführung
+  - Monitoring
+  - Professional Vision
+  - Unterrichtsvideos
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n33
+  - https://w3id.org/kim/hochschulfaechersystematik/n33
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2020-12-18'
+sourceOrganization:
+  - name: Universität Frankfurt
+    type: Organization
+    id: https://www.uni-frankfurt.de/

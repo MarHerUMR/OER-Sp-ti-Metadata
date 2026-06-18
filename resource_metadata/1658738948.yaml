@@ -6,27 +6,32 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: https://pandar.netlify.app/extras/#ggplotting
 creator:
-- givenName: Martin
-  familyName: Schultze
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0003-1925-2403
-- givenName: Janine
-  familyName: Buchholz
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0003-2534-4603
+  - givenName: Martin
+    familyName: Schultze
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0003-1925-2403
+  - givenName: Janine
+    familyName: Buchholz
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0003-2534-4603
 keywords:
-- R
-- ggplot
-- Grafiken
-- Datenanalyse
+  - R
+  - ggplot
+  - Grafiken
+  - Datenanalyse
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n32
+  - https://w3id.org/kim/hochschulfaechersystematik/n32
 learningResourceType:
-- https://w3id.org/kim/hcrt/web_page
+  - https://w3id.org/kim/hcrt/web_page
+image: type_preview/web_page.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2022-07-20'
+sourceOrganization:
+  - name: Universität Frankfurt
+    type: Organization
+    id: https://www.uni-frankfurt.de/

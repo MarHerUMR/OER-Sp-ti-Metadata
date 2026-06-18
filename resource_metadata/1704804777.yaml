@@ -6,21 +6,26 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: https://www.youtube.com/watch?v=svFOSjPQWJA
 creator:
-- givenName: Alexander
-  familyName: Kaib
-  type: Person
-  affiliation: ''
+  - givenName: Alexander
+    familyName: Kaib
+    type: Person
+    affiliation: ''
 keywords:
-- Writing
-- Academic Writing
-- Writing strategies
-- explenation video
+  - Writing
+  - Academic Writing
+  - Writing strategies
+  - explenation video
 inLanguage:
-- en
+  - en
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n1
+  - https://w3id.org/kim/hochschulfaechersystematik/n1
 learningResourceType:
-- https://w3id.org/kim/hcrt/video
+  - https://w3id.org/kim/hcrt/video
+image: type_preview/video.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2024-01-07'
+sourceOrganization:
+  - name: Universität Frankfurt
+    type: Organization
+    id: https://www.uni-frankfurt.de/

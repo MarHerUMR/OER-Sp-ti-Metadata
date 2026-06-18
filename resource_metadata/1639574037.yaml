@@ -7,21 +7,26 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
 id: https://www.youtube.com/playlist?list=PLKmmYfW-9lJW7oZxbPIwKou97scgKRU_a
 creator:
-- givenName: Kristof
-  familyName: Obermann
-  type: Person
-  affiliation: ''
+  - givenName: Kristof
+    familyName: Obermann
+    type: Person
+    affiliation: ''
 keywords:
-- Theoretische Elektrotechnik
-- Leitungstheorie
-- Hohlleiter
-- S-Parameter
+  - Theoretische Elektrotechnik
+  - Leitungstheorie
+  - Hohlleiter
+  - S-Parameter
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n64
+  - https://w3id.org/kim/hochschulfaechersystematik/n64
 learningResourceType:
-- https://w3id.org/kim/hcrt/video
+  - https://w3id.org/kim/hcrt/video
+image: type_preview/video.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2021-12-06'
+sourceOrganization:
+  - name: Technische Hochschule Mittelhessen
+    type: Organization
+    id: https://www.thm.de

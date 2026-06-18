@@ -6,21 +6,26 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: https://lernbar.uni-frankfurt.de/courses/7942/5581/index.html?id=51c519e0284964e5831b267976b3338bc746a8/permalink
 creator:
-- givenName: Laura
-  familyName: Chihab
-  type: Person
-  affiliation: ''
+  - givenName: Laura
+    familyName: Chihab
+    type: Person
+    affiliation: ''
 keywords:
-- Rassismus
-- Soziale Medien
-- Framing
-- Neue Rechte
+  - Rassismus
+  - Soziale Medien
+  - Framing
+  - Neue Rechte
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n050
+  - https://w3id.org/kim/hochschulfaechersystematik/n050
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2024-03-21'
+sourceOrganization:
+  - name: Universität Frankfurt
+    type: Organization
+    id: https://www.uni-frankfurt.de/

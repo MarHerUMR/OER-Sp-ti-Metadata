@@ -6,22 +6,27 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: https://ilias.uni-marburg.de/data/UNIMR/lm_data/lm_2287352/index.html
 creator:
-- givenName: Dirk
-  familyName: Zeuß
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0001-6457-2866
+  - givenName: Dirk
+    familyName: Zeuß
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0001-6457-2866
 keywords:
-- Data basics
-- Data exploration
-- Data modelling
-- Visualization
+  - Data basics
+  - Data exploration
+  - Data modelling
+  - Visualization
 inLanguage:
-- en
+  - en
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n44
+  - https://w3id.org/kim/hochschulfaechersystematik/n44
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2020-03-20'
+sourceOrganization:
+  - name: Universität Marburg
+    type: Organization
+    id: https://www.uni-marburg.de

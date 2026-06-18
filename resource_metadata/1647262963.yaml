@@ -6,24 +6,29 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.de
 id: https://ilias.uni-marburg.de/goto.php?target=crs_1843818&client_id=UNIMR
 creator:
-- givenName: Cornelius
-  familyName: Filipski
-  type: Person
-  affiliation: ''
-- givenName: Toni
-  familyName: Linke
-  type: Person
-  affiliation: ''
+  - givenName: Cornelius
+    familyName: Filipski
+    type: Person
+    affiliation: ''
+  - givenName: Toni
+    familyName: Linke
+    type: Person
+    affiliation: ''
 keywords:
-- Podcast
-- Schlüsselkompetenzen
-- Lehramt
+  - Podcast
+  - Schlüsselkompetenzen
+  - Lehramt
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n01
+  - https://w3id.org/kim/hochschulfaechersystematik/n01
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2022-03-02'
+sourceOrganization:
+  - name: Universität Marburg
+    type: Organization
+    id: https://www.uni-marburg.de

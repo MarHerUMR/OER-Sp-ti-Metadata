@@ -6,19 +6,24 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
 id: https://moodle.frankfurt-university.de/course/view.php?id=8234
 creator:
-- givenName: Kira
-  familyName: Kastell
-  type: Person
-  affiliation: ''
+  - givenName: Kira
+    familyName: Kastell
+    type: Person
+    affiliation: ''
 keywords:
-- Mobilkommunikation
-- drahtlose Kommunikationsnetze
+  - Mobilkommunikation
+  - drahtlose Kommunikationsnetze
 inLanguage:
-- en
+  - en
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n222
+  - https://w3id.org/kim/hochschulfaechersystematik/n222
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2021-04-26'
+sourceOrganization:
+  - name: Hochschule Frankfurt UAS
+    type: Organization
+    id: https://www.frankfurt-university.de

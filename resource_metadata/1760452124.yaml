@@ -6,24 +6,29 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
 id: https://www.starkerstart.uni-frankfurt.de/51695232/Grundlagen_Chemie
 creator:
-- givenName: Bertram
-  familyName: Bühner
-  type: Person
-  affiliation: ''
-- givenName: Julia
-  familyName: Sommer
-  type: Person
-  affiliation: ''
+  - givenName: Bertram
+    familyName: Bühner
+    type: Person
+    affiliation: ''
+  - givenName: Julia
+    familyName: Sommer
+    type: Person
+    affiliation: ''
 keywords:
-- LernBar
-- allgemeine Chemie
-- anorganische Chemie
+  - LernBar
+  - allgemeine Chemie
+  - anorganische Chemie
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n032
+  - https://w3id.org/kim/hochschulfaechersystematik/n032
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2025-10-14'
+sourceOrganization:
+  - name: Universität Frankfurt
+    type: Organization
+    id: https://www.uni-frankfurt.de/

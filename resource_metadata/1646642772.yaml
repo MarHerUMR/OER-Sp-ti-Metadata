@@ -6,35 +6,40 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc-nd/3.0/deed.de
 id: https://ilias.uni-marburg.de/goto.php?target=crs_2524537&client_id=UNIMR
 creator:
-- givenName: Angela
-  familyName: Krewani
-  type: Person
-  affiliation: ''
-- givenName: Lea
-  familyName: Heiser
-  type: Person
-  affiliation: ''
-- givenName: Isabelle
-  familyName: Wientzek
-  type: Person
-  affiliation: ''
-- givenName: Alisa
-  familyName: Hüttermann
-  type: Person
-  affiliation: ''
+  - givenName: Angela
+    familyName: Krewani
+    type: Person
+    affiliation: ''
+  - givenName: Lea
+    familyName: Heiser
+    type: Person
+    affiliation: ''
+  - givenName: Isabelle
+    familyName: Wientzek
+    type: Person
+    affiliation: ''
+  - givenName: Alisa
+    familyName: Hüttermann
+    type: Person
+    affiliation: ''
 keywords:
-- Medienwissenschaft
-- Fake News
-- Verschwörungstheorien
-- Lehrerbildung
-- Medien
-- Nachrichten
+  - Medienwissenschaft
+  - Fake News
+  - Verschwörungstheorien
+  - Lehrerbildung
+  - Medien
+  - Nachrichten
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n302
+  - https://w3id.org/kim/hochschulfaechersystematik/n302
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2022-02-23'
+sourceOrganization:
+  - name: Universität Marburg
+    type: Organization
+    id: https://www.uni-marburg.de

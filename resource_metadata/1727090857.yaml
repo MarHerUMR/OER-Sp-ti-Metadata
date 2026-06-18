@@ -6,24 +6,29 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc/4.0/deed.de
 id: https://geomoer.github.io/moer-mpg-geoai/
 creator:
-- givenName: Dirk
-  familyName: Zeuss
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0001-6457-2866
-- givenName: Lisa
-  familyName: Bald
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0002-3170-7856
+  - givenName: Dirk
+    familyName: Zeuss
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0001-6457-2866
+  - givenName: Lisa
+    familyName: Bald
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0002-3170-7856
 keywords:
-- AI
+  - AI
 inLanguage:
-- en
+  - en
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n44
+  - https://w3id.org/kim/hochschulfaechersystematik/n44
 learningResourceType:
-- https://w3id.org/kim/hcrt/web_page
+  - https://w3id.org/kim/hcrt/web_page
+image: type_preview/web_page.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2024-09-02'
+sourceOrganization:
+  - name: Universität Marburg
+    type: Organization
+    id: https://www.uni-marburg.de

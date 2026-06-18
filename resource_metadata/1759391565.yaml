@@ -6,28 +6,33 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: https://ilias.uni-marburg.de/goto.php/grp/4177602
 creator:
-- givenName: Verena
-  familyName: Mille
-  type: Person
-  affiliation: ''
-- givenName: Sophia
-  familyName: Hercher
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/my-orcid?orcid=0009-0008-6018-1161
+  - givenName: Verena
+    familyName: Mille
+    type: Person
+    affiliation: ''
+  - givenName: Sophia
+    familyName: Hercher
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/my-orcid?orcid=0009-0008-6018-1161
 keywords:
-- Künstliche Intelligenz
-- KI
-- AI
-- artifcial intelligence
-- Grundlagen wissenschaftichen Arbeitens
-- gute wissenschaftliche Praxis
+  - Künstliche Intelligenz
+  - KI
+  - AI
+  - artifcial intelligence
+  - Grundlagen wissenschaftichen Arbeitens
+  - gute wissenschaftliche Praxis
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n01
+  - https://w3id.org/kim/hochschulfaechersystematik/n01
 learningResourceType:
-- https://w3id.org/kim/hcrt/educational_game
+  - https://w3id.org/kim/hcrt/educational_game
+image: type_preview/educational_game.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2025-10-01'
+sourceOrganization:
+  - name: Universität Marburg
+    type: Organization
+    id: https://www.uni-marburg.de

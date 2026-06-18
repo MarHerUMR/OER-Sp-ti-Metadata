@@ -6,35 +6,40 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: https://journal.fortext.org/article/id/3778/
 creator:
-- givenName: Jan
-  familyName: Horstmann
-  type: Person
-  affiliation: ''
+  - givenName: Jan
+    familyName: Horstmann
+    type: Person
+    affiliation: ''
 keywords:
-- Visualisierung
-- Tools
-- Close Reading
-- Raum
-- Gedichtsanalyse
-- Lyrik
-- Digitale Lehre
-- Digital Humanities
-- Forschendes Lernen
-- Digitale Textanalyse
-- Digitale Geisteswissenschaften
-- Germanistik
-- Literaturwissenschaft
-- Sprachwissenschaft
-- Geisteswissenschaften
-- Zeitschrift
-- Lehrmodul
-- Methoden
+  - Visualisierung
+  - Tools
+  - Close Reading
+  - Raum
+  - Gedichtsanalyse
+  - Lyrik
+  - Digitale Lehre
+  - Digital Humanities
+  - Forschendes Lernen
+  - Digitale Textanalyse
+  - Digitale Geisteswissenschaften
+  - Germanistik
+  - Literaturwissenschaft
+  - Sprachwissenschaft
+  - Geisteswissenschaften
+  - Zeitschrift
+  - Lehrmodul
+  - Methoden
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n1
+  - https://w3id.org/kim/hochschulfaechersystematik/n1
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2024-08-07'
+sourceOrganization:
+  - name: Technische Universität Darmstadt
+    type: Organization
+    id: https://www.tu-darmstadt.de

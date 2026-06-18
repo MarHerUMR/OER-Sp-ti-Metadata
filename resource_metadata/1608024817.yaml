@@ -6,25 +6,30 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: https://ilias.uni-marburg.de/ilias.php?ref_id=2153225&cmdClass=ilobjcoursegui&cmd=view&cmdNode=wi:le&baseClass=ilrepositorygui
 creator:
-- givenName: Julia
-  familyName: Gorges
-  type: Person
-  affiliation: ''
-- givenName: Mark
-  familyName: Ullrich
-  type: Person
-  affiliation: ''
+  - givenName: Julia
+    familyName: Gorges
+    type: Person
+    affiliation: ''
+  - givenName: Mark
+    familyName: Ullrich
+    type: Person
+    affiliation: ''
 keywords:
-- Empirische Bildungsforschung
-- Forschungsmethoden
-- Wissenschaftliches Arbeiten
-- HessenHub-Förderlinie
+  - Empirische Bildungsforschung
+  - Forschungsmethoden
+  - Wissenschaftliches Arbeiten
+  - HessenHub-Förderlinie
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n33
+  - https://w3id.org/kim/hochschulfaechersystematik/n33
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2020-12-14'
+sourceOrganization:
+  - name: Universität Marburg
+    type: Organization
+    id: https://www.uni-marburg.de

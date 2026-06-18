@@ -6,45 +6,50 @@ description: ''
 license: https://creativecommons.org/licenses/by/4.0/deed.de
 id: https://ilias.uni-marburg.de/goto.php?target=cat_4062081&client_id=UNIMR
 creator:
-- givenName: Daniel
-  familyName: Monz
-  type: Person
-  affiliation: ''
-- givenName: Annabell
-  familyName: Sent
-  type: Person
-  affiliation: ''
-- givenName: Alba
-  familyName: González Pericacho
-  type: Person
-  affiliation: ''
-- givenName: Gina
-  familyName: Knierim
-  type: Person
-  affiliation: ''
-- givenName: Marvin
-  familyName: Niehörster
-  type: Person
-  affiliation: ''
-- givenName: Lena
-  familyName: Verrelli
-  type: Person
-  affiliation: ''
-- givenName: Alina
-  familyName: Leucker
-  type: Person
-  affiliation: ''
+  - givenName: Daniel
+    familyName: Monz
+    type: Person
+    affiliation: ''
+  - givenName: Annabell
+    familyName: Sent
+    type: Person
+    affiliation: ''
+  - givenName: Alba
+    familyName: González Pericacho
+    type: Person
+    affiliation: ''
+  - givenName: Gina
+    familyName: Knierim
+    type: Person
+    affiliation: ''
+  - givenName: Marvin
+    familyName: Niehörster
+    type: Person
+    affiliation: ''
+  - givenName: Lena
+    familyName: Verrelli
+    type: Person
+    affiliation: ''
+  - givenName: Alina
+    familyName: Leucker
+    type: Person
+    affiliation: ''
 keywords:
-- Medienreflexionskompetenz (MRK)
-- Unterrichtsmaterial
-- Social Media
-- Achtsamkeit
+  - Medienreflexionskompetenz (MRK)
+  - Unterrichtsmaterial
+  - Social Media
+  - Achtsamkeit
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n302
+  - https://w3id.org/kim/hochschulfaechersystematik/n302
 learningResourceType:
-- https://w3id.org/kim/hcrt/worksheet
+  - https://w3id.org/kim/hcrt/worksheet
+image: type_preview/worksheet.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2024-09-13'
+sourceOrganization:
+  - name: Universität Marburg
+    type: Organization
+    id: https://www.uni-marburg.de

@@ -7,42 +7,47 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
 id: https://ilias.uni-giessen.de/ilias/goto.php?target=cat_229583&client_id=JLUG
 creator:
-- givenName: Jennifer
-  familyName: Ecker
-  type: Person
-  affiliation: ''
-- givenName: Simon
-  familyName: Falk
-  type: Person
-  affiliation: ''
-- givenName: Mareen
-  familyName: Lüke
-  type: Person
-  affiliation: ''
-- givenName: Johanna
-  familyName: Michel
-  type: Person
-  affiliation: ''
-- givenName: Dietmar
-  familyName: Rösler
-  type: Person
-  affiliation: ''
-- givenName: Kathrin
-  familyName: Siebold
-  type: Person
-  affiliation: ''
-- givenName: Tamara
-  familyName: Zeyer
-  type: Person
-  affiliation: ''
+  - givenName: Jennifer
+    familyName: Ecker
+    type: Person
+    affiliation: ''
+  - givenName: Simon
+    familyName: Falk
+    type: Person
+    affiliation: ''
+  - givenName: Mareen
+    familyName: Lüke
+    type: Person
+    affiliation: ''
+  - givenName: Johanna
+    familyName: Michel
+    type: Person
+    affiliation: ''
+  - givenName: Dietmar
+    familyName: Rösler
+    type: Person
+    affiliation: ''
+  - givenName: Kathrin
+    familyName: Siebold
+    type: Person
+    affiliation: ''
+  - givenName: Tamara
+    familyName: Zeyer
+    type: Person
+    affiliation: ''
 keywords:
-- HessenHub-Förderlinie
+  - HessenHub-Förderlinie
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n271
+  - https://w3id.org/kim/hochschulfaechersystematik/n271
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2021-05-15'
+sourceOrganization:
+  - name: Universität Gießen
+    type: Organization
+    id: https://www.uni-giessen.de

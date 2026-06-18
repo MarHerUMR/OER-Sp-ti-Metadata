@@ -6,69 +6,74 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: https://pandar.netlify.app/lehre/main/#statistik-ii
 creator:
-- givenName: Martin
-  familyName: Schultze
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0003-1925-2403
-- givenName: Kai
-  familyName: Nehler
-  type: Person
-  affiliation: ''
-- givenName: Johanna
-  familyName: Schüller
-  type: Person
-  affiliation: ''
-- givenName: Julien
-  familyName: Irmer
-  type: Person
-  affiliation: ''
-- givenName: Johannes
-  familyName: Hartig
-  type: Person
-  affiliation: ''
-- givenName: Tatiana
-  familyName: Kvetnaya
-  type: Person
-  affiliation: ''
-- givenName: Marvin
-  familyName: Schröder
-  type: Person
-  affiliation: ''
-- givenName: Luisa
-  familyName: Grützmacher
-  type: Person
-  affiliation: ''
-- givenName: Talha
-  familyName: Sajjad
-  type: Person
-  affiliation: ''
-- givenName: Miriam
-  familyName: Scheppa-Lahyani
-  type: Person
-  affiliation: ''
-- givenName: Sebastian
-  familyName: Wallot
-  type: Person
-  affiliation: ''
+  - givenName: Martin
+    familyName: Schultze
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0003-1925-2403
+  - givenName: Kai
+    familyName: Nehler
+    type: Person
+    affiliation: ''
+  - givenName: Johanna
+    familyName: Schüller
+    type: Person
+    affiliation: ''
+  - givenName: Julien
+    familyName: Irmer
+    type: Person
+    affiliation: ''
+  - givenName: Johannes
+    familyName: Hartig
+    type: Person
+    affiliation: ''
+  - givenName: Tatiana
+    familyName: Kvetnaya
+    type: Person
+    affiliation: ''
+  - givenName: Marvin
+    familyName: Schröder
+    type: Person
+    affiliation: ''
+  - givenName: Luisa
+    familyName: Grützmacher
+    type: Person
+    affiliation: ''
+  - givenName: Talha
+    familyName: Sajjad
+    type: Person
+    affiliation: ''
+  - givenName: Miriam
+    familyName: Scheppa-Lahyani
+    type: Person
+    affiliation: ''
+  - givenName: Sebastian
+    familyName: Wallot
+    type: Person
+    affiliation: ''
 keywords:
-- Grafiken mit ggplot2
-- Inferenzstatistik
-- multiple Regression
-- Partialkorrelation
-- Semipartialkorrelation
-- Regressionsdiagnostik
-- Nichtlineare Regression
-- Einfaktorielle ANOVA
-- Zweifaktorielle ANOVA
-- Varianzanalyse
-- Loops
+  - Grafiken mit ggplot2
+  - Inferenzstatistik
+  - multiple Regression
+  - Partialkorrelation
+  - Semipartialkorrelation
+  - Regressionsdiagnostik
+  - Nichtlineare Regression
+  - Einfaktorielle ANOVA
+  - Zweifaktorielle ANOVA
+  - Varianzanalyse
+  - Loops
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n32
+  - https://w3id.org/kim/hochschulfaechersystematik/n32
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2024-05-28'
+sourceOrganization:
+  - name: Universität Frankfurt
+    type: Organization
+    id: https://www.uni-frankfurt.de/

@@ -6,40 +6,45 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: https://journal.fortext.org/article/id/3796/
 creator:
-- givenName: Sandra
-  familyName: Bläß
-  type: Person
-  affiliation: ''
+  - givenName: Sandra
+    familyName: Bläß
+    type: Person
+    affiliation: ''
 keywords:
-- Organisation
-- Methoden
-- Kollaboration
-- Exploration
-- Digitalisierung
-- Digitales Bibliographieren
-- Koordination
-- Planung
-- Projektkonzeption
-- Strukturierung
-- Zeitplanung
-- Digitale Lehre
-- Digital Humanities
-- Forschendes Lernen
-- Digitale Textanalyse
-- Digitale Geisteswissenschaften
-- Germanistik
-- Literaturwissenschaft
-- Sprachwissenschaft
-- Geisteswissenschaften
-- Zeitschrift
-- Lehrmodul
-- Tools
+  - Organisation
+  - Methoden
+  - Kollaboration
+  - Exploration
+  - Digitalisierung
+  - Digitales Bibliographieren
+  - Koordination
+  - Planung
+  - Projektkonzeption
+  - Strukturierung
+  - Zeitplanung
+  - Digitale Lehre
+  - Digital Humanities
+  - Forschendes Lernen
+  - Digitale Textanalyse
+  - Digitale Geisteswissenschaften
+  - Germanistik
+  - Literaturwissenschaft
+  - Sprachwissenschaft
+  - Geisteswissenschaften
+  - Zeitschrift
+  - Lehrmodul
+  - Tools
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n1
+  - https://w3id.org/kim/hochschulfaechersystematik/n1
 learningResourceType:
-- https://w3id.org/kim/hcrt/text
+  - https://w3id.org/kim/hcrt/text
+image: type_preview/text.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2024-11-29'
+sourceOrganization:
+  - name: Technische Universität Darmstadt
+    type: Organization
+    id: https://www.tu-darmstadt.de

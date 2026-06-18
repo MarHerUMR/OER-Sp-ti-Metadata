@@ -6,38 +6,43 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
 id: https://lernbar.uni-frankfurt.de/sd/DigiBar
 creator:
-- givenName: Sarah
-  familyName: Voß-Nakkour
-  type: Person
-  affiliation: ''
-- givenName: Sanja
-  familyName: Grimminger
-  type: Person
-  affiliation: ''
-- givenName: Saba
-  familyName: Mateen
-  type: Person
-  affiliation: ''
-- givenName: Linda
-  familyName: Rustemeier
-  type: Person
-  affiliation: ''
-- givenName: Andreas
-  familyName: Deitmer
-  type: Person
-  affiliation: ''
+  - givenName: Sarah
+    familyName: Voß-Nakkour
+    type: Person
+    affiliation: ''
+  - givenName: Sanja
+    familyName: Grimminger
+    type: Person
+    affiliation: ''
+  - givenName: Saba
+    familyName: Mateen
+    type: Person
+    affiliation: ''
+  - givenName: Linda
+    familyName: Rustemeier
+    type: Person
+    affiliation: ''
+  - givenName: Andreas
+    familyName: Deitmer
+    type: Person
+    affiliation: ''
 keywords:
-- Digitale Barrierefreiheit
-- Microsoft Word
-- LernBar
-- Fortbildung
-- Tutorial
+  - Digitale Barrierefreiheit
+  - Microsoft Word
+  - LernBar
+  - Fortbildung
+  - Tutorial
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n037
+  - https://w3id.org/kim/hochschulfaechersystematik/n037
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2021-12-13'
+sourceOrganization:
+  - name: Universität Frankfurt
+    type: Organization
+    id: https://www.uni-frankfurt.de/

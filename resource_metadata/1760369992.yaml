@@ -6,50 +6,55 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: https://lernen.digital/wissen-und-formate/qualifizierungskonzepte/?article=2e386f2e-6d3e-11f0-8726-1258951accd5
 creator:
-- givenName: Alexandra
-  familyName: Kemmerer
-  type: Person
-  affiliation: ''
-- givenName: Jan-Erik
-  familyName: Leonhardt
-  type: Person
-  affiliation: ''
-- givenName: Karina
-  familyName: Schmirler
-  type: Person
-  affiliation: ''
-- givenName: Charlotte
-  familyName: Metternich
-  type: Person
-  affiliation: ''
-- givenName: Marc
-  familyName: Wullinger
-  type: Person
-  affiliation: ''
-- givenName: Annika
-  familyName: Janßen
-  type: Person
-  affiliation: ''
-- givenName: Laura
-  familyName: van den Brink
-  type: Person
-  affiliation: ''
-- givenName: Britta
-  familyName: Viebrock
-  type: Person
-  affiliation: ''
+  - givenName: Alexandra
+    familyName: Kemmerer
+    type: Person
+    affiliation: ''
+  - givenName: Jan-Erik
+    familyName: Leonhardt
+    type: Person
+    affiliation: ''
+  - givenName: Karina
+    familyName: Schmirler
+    type: Person
+    affiliation: ''
+  - givenName: Charlotte
+    familyName: Metternich
+    type: Person
+    affiliation: ''
+  - givenName: Marc
+    familyName: Wullinger
+    type: Person
+    affiliation: ''
+  - givenName: Annika
+    familyName: Janßen
+    type: Person
+    affiliation: ''
+  - givenName: Laura
+    familyName: van den Brink
+    type: Person
+    affiliation: ''
+  - givenName: Britta
+    familyName: Viebrock
+    type: Person
+    affiliation: ''
 keywords:
-- OER-Preis
-- digitale Souveränität
-- Englischunterricht
-- audio-visuelle digitale Texte
-- Professionalisierung
+  - OER-Preis
+  - digitale Souveränität
+  - Englischunterricht
+  - audio-visuelle digitale Texte
+  - Professionalisierung
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n10
+  - https://w3id.org/kim/hochschulfaechersystematik/n10
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2025-10-13'
+sourceOrganization:
+  - name: universität frankfurt
+    type: organization
+    id: https://www.uni-frankfurt.de/

@@ -6,24 +6,29 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
 id: https://hs-rm.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?pid=3cefb51e-3f8d-46bc-9a09-afe900c52eec
 creator:
-- givenName: Irina
-  familyName: Mazilu-Eyaz
-  type: Person
-  affiliation: ''
+  - givenName: Irina
+    familyName: Mazilu-Eyaz
+    type: Person
+    affiliation: ''
 keywords:
-- Qualitätsmanagement
-- DIN EN ISO 9001
-- GAP Modell
-- Kano Modell
-- Kundenorientierung
-- PDCA
-- Kontinuierlicher Verbesserungsprozess
+  - Qualitätsmanagement
+  - DIN EN ISO 9001
+  - GAP Modell
+  - Kano Modell
+  - Kundenorientierung
+  - PDCA
+  - Kontinuierlicher Verbesserungsprozess
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n61
+  - https://w3id.org/kim/hochschulfaechersystematik/n61
 learningResourceType:
-- https://w3id.org/kim/hcrt/video
+  - https://w3id.org/kim/hcrt/video
+image: type_preview/video.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2023-05-15'
+sourceOrganization:
+  - name: Hochschule RheinMain
+    type: Organization
+    id: https://www.hs-rm.de/

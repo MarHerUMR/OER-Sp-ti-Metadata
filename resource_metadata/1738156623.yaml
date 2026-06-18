@@ -6,69 +6,74 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
 id: https://moodle-connect.s.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=40
 creator:
-- givenName: Daniel
-  familyName: Bengs
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0002-6101-4241
-- givenName: Marc
-  familyName: Winter
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0003-0350-1305
-- givenName: Julia
-  familyName: Mendzheritskaya
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0002-6096-4114
-- givenName: Julia
-  familyName: Mordel
-  type: Person
-  affiliation: ''
-- givenName: Holger
-  familyName: Horz
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0002-5173-0252
-- givenName: Ilka
-  familyName: Wolter
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0003-0421-2871
-- givenName: Monica
-  familyName: Onofrei
-  type: Person
-  affiliation: ''
-- givenName: Carolin
-  familyName: Hahnel
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0003-2394-3944
-- givenName: Cordula
-  familyName: Artelt
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0001-7790-2502
-- givenName: Hendrik
-  familyName: Drachsler
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0001-8407-5314
-- givenName: Frank
-  familyName: Goldhammer
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0003-0289-9534
+  - givenName: Daniel
+    familyName: Bengs
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0002-6101-4241
+  - givenName: Marc
+    familyName: Winter
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0003-0350-1305
+  - givenName: Julia
+    familyName: Mendzheritskaya
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0002-6096-4114
+  - givenName: Julia
+    familyName: Mordel
+    type: Person
+    affiliation: ''
+  - givenName: Holger
+    familyName: Horz
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0002-5173-0252
+  - givenName: Ilka
+    familyName: Wolter
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0003-0421-2871
+  - givenName: Monica
+    familyName: Onofrei
+    type: Person
+    affiliation: ''
+  - givenName: Carolin
+    familyName: Hahnel
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0003-2394-3944
+  - givenName: Cordula
+    familyName: Artelt
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0001-7790-2502
+  - givenName: Hendrik
+    familyName: Drachsler
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0001-8407-5314
+  - givenName: Frank
+    familyName: Goldhammer
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0003-0289-9534
 keywords:
-- digitale Medien
-- Unterricht
-- Lehrer*innenausbildung
+  - digitale Medien
+  - Unterricht
+  - Lehrer*innenausbildung
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n33
+  - https://w3id.org/kim/hochschulfaechersystematik/n33
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2025-01-29'
+sourceOrganization:
+  - name: Universität Frankfurt
+    type: Organization
+    id: https://www.uni-frankfurt.de/

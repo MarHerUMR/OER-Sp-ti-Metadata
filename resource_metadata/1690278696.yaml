@@ -6,20 +6,25 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc/4.0/deed.de
 id: https://ilias.uni-marburg.de/goto.php?target=crs_2524479&client_id=UNIMR
 creator:
-- givenName: Philipp
-  familyName: Reiß
-  type: Person
-  affiliation: ''
+  - givenName: Philipp
+    familyName: Reiß
+    type: Person
+    affiliation: ''
 keywords:
-- Präsentieren im Fach Chemie
-- Digitaler Chemieunterricht
-- OER
+  - Präsentieren im Fach Chemie
+  - Digitaler Chemieunterricht
+  - OER
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n032
+  - https://w3id.org/kim/hochschulfaechersystematik/n032
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2023-07-24'
+sourceOrganization:
+  - name: Universität Marburg
+    type: Organization
+    id: https://www.uni-marburg.de

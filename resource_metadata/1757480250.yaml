@@ -6,18 +6,23 @@ description: ''
 license: https://creativecommons.org/publicdomain/zero/1.0/
 id: https://github.com/apfelpfluecker/quarto-template
 creator:
-- givenName: Jakob
-  familyName: Krueger
-  type: Person
-  affiliation: ''
+  - givenName: Jakob
+    familyName: Krueger
+    type: Person
+    affiliation: ''
 keywords:
-- OER-Preis
+  - OER-Preis
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n3
+  - https://w3id.org/kim/hochschulfaechersystematik/n3
 learningResourceType:
-- https://w3id.org/kim/hcrt/application
+  - https://w3id.org/kim/hcrt/application
+image: type_preview/application.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2025-08-28'
+sourceOrganization:
+  - name: Universität Marburg
+    type: Organization
+    id: https://www.uni-marburg.de

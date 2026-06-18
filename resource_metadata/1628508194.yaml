@@ -6,25 +6,30 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
 id: https://www.uni-kassel.de/fb02/institute/romanistik/fachgebiete/romanische-sprachwissenschaft/forschung/kamoko
 creator:
-- givenName: Angela
-  familyName: Schrott
-  type: Person
-  affiliation: ''
+  - givenName: Angela
+    familyName: Schrott
+    type: Person
+    affiliation: ''
 keywords:
-- Korpus
-- Französisch
-- Sprachpraxis
-- Spracherwerb
-- Linguistik
-- Sprachwissenschaft
-- Beispiele
-- Texte
+  - Korpus
+  - Französisch
+  - Sprachpraxis
+  - Spracherwerb
+  - Linguistik
+  - Sprachwissenschaft
+  - Beispiele
+  - Texte
 inLanguage:
-- fr
+  - fr
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n059
+  - https://w3id.org/kim/hochschulfaechersystematik/n059
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2021-08-02'
+sourceOrganization:
+  - name: Universität Kassel
+    type: Organization
+    id: https://www.uni-kassel.de/

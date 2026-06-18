@@ -6,94 +6,99 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: https://pandar.netlify.app/lehre/main/#statistik-i
 creator:
-- givenName: Martin
-  familyName: Schultze
-  type: Person
-  affiliation: ''
-- givenName: Julien
-  familyName: Irmer
-  type: Person
-  affiliation: ''
-- givenName: Kai
-  familyName: Nehler
-  type: Person
-  affiliation: ''
-- givenName: Kevin
-  familyName: Pommeranz
-  type: Person
-  affiliation: ''
-- givenName: Carmen
-  familyName: Köhler
-  type: Person
-  affiliation: ''
-- givenName: Miriam
-  familyName: Scheppa-Lahyani
-  type: Person
-  affiliation: ''
-- givenName: Johanna
-  familyName: Schüller
-  type: Person
-  affiliation: ''
-- givenName: Janine
-  familyName: Buchholz
-  type: Person
-  affiliation: ''
-- givenName: Julia
-  familyName: Beitner
-  type: Person
-  affiliation: ''
-- givenName: Tuo
-  familyName: Liu
-  type: Person
-  affiliation: ''
-- givenName: Frank
-  familyName: Goldhammer
-  type: Person
-  affiliation: ''
-- givenName: Anna
-  familyName: Winkler
-  type: Person
-  affiliation: ''
-- givenName: Marvin
-  familyName: Schröder
-  type: Person
-  affiliation: ''
-- givenName: Andreas
-  familyName: Neubauer
-  type: Person
-  affiliation: ''
-- givenName: Rasmus
-  familyName: Sinn
-  type: Person
-  affiliation: ''
-- givenName: Leila
-  familyName: Zacharias
-  type: Person
-  affiliation: ''
-- givenName: Tobias
-  familyName: Vogler
-  type: Person
-  affiliation: ''
-- givenName: Rose
-  familyName: Walter
-  type: Person
-  affiliation: ''
+  - givenName: Martin
+    familyName: Schultze
+    type: Person
+    affiliation: ''
+  - givenName: Julien
+    familyName: Irmer
+    type: Person
+    affiliation: ''
+  - givenName: Kai
+    familyName: Nehler
+    type: Person
+    affiliation: ''
+  - givenName: Kevin
+    familyName: Pommeranz
+    type: Person
+    affiliation: ''
+  - givenName: Carmen
+    familyName: Köhler
+    type: Person
+    affiliation: ''
+  - givenName: Miriam
+    familyName: Scheppa-Lahyani
+    type: Person
+    affiliation: ''
+  - givenName: Johanna
+    familyName: Schüller
+    type: Person
+    affiliation: ''
+  - givenName: Janine
+    familyName: Buchholz
+    type: Person
+    affiliation: ''
+  - givenName: Julia
+    familyName: Beitner
+    type: Person
+    affiliation: ''
+  - givenName: Tuo
+    familyName: Liu
+    type: Person
+    affiliation: ''
+  - givenName: Frank
+    familyName: Goldhammer
+    type: Person
+    affiliation: ''
+  - givenName: Anna
+    familyName: Winkler
+    type: Person
+    affiliation: ''
+  - givenName: Marvin
+    familyName: Schröder
+    type: Person
+    affiliation: ''
+  - givenName: Andreas
+    familyName: Neubauer
+    type: Person
+    affiliation: ''
+  - givenName: Rasmus
+    familyName: Sinn
+    type: Person
+    affiliation: ''
+  - givenName: Leila
+    familyName: Zacharias
+    type: Person
+    affiliation: ''
+  - givenName: Tobias
+    familyName: Vogler
+    type: Person
+    affiliation: ''
+  - givenName: Rose
+    familyName: Walter
+    type: Person
+    affiliation: ''
 keywords:
-- Skalenniveaus
-- Deskriptivstatistik
-- Verteilungen
-- Konfidenzintervalle
-- Tests für unabhängige Stichproben
-- Tests für abhängige Stichproben
-- Korrelation
-- Regression
-- Simulation und Poweranalyse
+  - Skalenniveaus
+  - Deskriptivstatistik
+  - Verteilungen
+  - Konfidenzintervalle
+  - Tests für unabhängige Stichproben
+  - Tests für abhängige Stichproben
+  - Korrelation
+  - Regression
+  - Simulation und Poweranalyse
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n32
+  - https://w3id.org/kim/hochschulfaechersystematik/n32
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2022-12-12'
+sourceOrganization:
+  - name: Universität Frankfurt
+    type: Organization
+    id: https://www.uni-frankfurt.de/

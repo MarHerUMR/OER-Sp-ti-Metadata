@@ -6,18 +6,23 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: https://openlearnware.tu-darmstadt.de/resource/adaptive-selbstlerneinheit-zu-arrays-5100?start=0
 creator:
-- givenName: Svana
-  familyName: Esche
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0002-5180-4856
+  - givenName: Svana
+    familyName: Esche
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0002-5180-4856
 keywords: []
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n079
+  - https://w3id.org/kim/hochschulfaechersystematik/n079
 learningResourceType:
-- https://w3id.org/kim/hcrt/drill_and_practice
+  - https://w3id.org/kim/hcrt/drill_and_practice
+image: type_preview/drill_and_practice.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2023-07-04'
+sourceOrganization:
+  - name: Technische Universität Darmstadt
+    type: Organization
+    id: https://www.tu-darmstadt.de

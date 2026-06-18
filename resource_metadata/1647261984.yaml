@@ -6,22 +6,27 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
 id: https://hs-rm.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dda49496-6c37-416b-84fd-ae5301548ea2
 creator:
-- givenName: Irina
-  familyName: Mazilu-Eyaz
-  type: Person
-  affiliation: ''
+  - givenName: Irina
+    familyName: Mazilu-Eyaz
+    type: Person
+    affiliation: ''
 keywords:
-- Qualitätsmanagement
-- Problemlösung
-- Problem Solving
-- Ishikawa
-- Ist/Ist Nicht Vergleich
+  - Qualitätsmanagement
+  - Problemlösung
+  - Problem Solving
+  - Ishikawa
+  - Ist/Ist Nicht Vergleich
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n072
+  - https://w3id.org/kim/hochschulfaechersystematik/n072
 learningResourceType:
-- https://w3id.org/kim/hcrt/video
+  - https://w3id.org/kim/hcrt/video
+image: type_preview/video.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2022-03-09'
+sourceOrganization:
+  - name: Hochschule RheinMain
+    type: Organization
+    id: https://www.hs-rm.de/

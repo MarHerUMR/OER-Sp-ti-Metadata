@@ -6,69 +6,74 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: https://linguistik.online.uni-marburg.de/
 creator:
-- givenName: Felix
-  familyName: Tacke
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0002-6716-7839
-- givenName: Renata
-  familyName: Freyre Castro
-  type: Person
-  affiliation: ''
-- givenName: Lea-Marie
-  familyName: Domin
-  type: Person
-  affiliation: ''
-- givenName: Gloria
-  familyName: Gabriel
-  type: Person
-  affiliation: ''
-- givenName: Marlon
-  familyName: Merte
-  type: Person
-  affiliation: ''
-- givenName: Selina
-  familyName: Scholz
-  type: Person
-  affiliation: ''
-- givenName: Selin
-  familyName: Sevgi
-  type: Person
-  affiliation: ''
-- givenName: Laura
-  familyName: Hesral Sánchez
-  type: Person
-  affiliation: ''
-- givenName: Riccarda
-  familyName: Falcone
-  type: Person
-  affiliation: ''
-- givenName: Büşra
-  familyName: Özen
-  type: Person
-  affiliation: ''
-- givenName: Jamaa
-  familyName: Khodja
-  type: Person
-  affiliation: ''
-- givenName: Teodora
-  familyName: Teodorescu
-  type: Person
-  affiliation: ''
+  - givenName: Felix
+    familyName: Tacke
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0002-6716-7839
+  - givenName: Renata
+    familyName: Freyre Castro
+    type: Person
+    affiliation: ''
+  - givenName: Lea-Marie
+    familyName: Domin
+    type: Person
+    affiliation: ''
+  - givenName: Gloria
+    familyName: Gabriel
+    type: Person
+    affiliation: ''
+  - givenName: Marlon
+    familyName: Merte
+    type: Person
+    affiliation: ''
+  - givenName: Selina
+    familyName: Scholz
+    type: Person
+    affiliation: ''
+  - givenName: Selin
+    familyName: Sevgi
+    type: Person
+    affiliation: ''
+  - givenName: Laura
+    familyName: Hesral Sánchez
+    type: Person
+    affiliation: ''
+  - givenName: Riccarda
+    familyName: Falcone
+    type: Person
+    affiliation: ''
+  - givenName: Büşra
+    familyName: Özen
+    type: Person
+    affiliation: ''
+  - givenName: Jamaa
+    familyName: Khodja
+    type: Person
+    affiliation: ''
+  - givenName: Teodora
+    familyName: Teodorescu
+    type: Person
+    affiliation: ''
 keywords:
-- OER-Preis
-- Digitales Lehrbuch
-- Linguistik @ School
-- Sprachwissenschaft
-- Fremdsprachendidaktik
-- Lehrkräftebildung
-- Digital Humanities
+  - OER-Preis
+  - Digitales Lehrbuch
+  - Linguistik @ School
+  - Sprachwissenschaft
+  - Fremdsprachendidaktik
+  - Lehrkräftebildung
+  - Digital Humanities
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n11
+  - https://w3id.org/kim/hochschulfaechersystematik/n11
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2025-09-28'
+sourceOrganization:
+  - name: Universität Marburg
+    type: Organization
+    id: https://www.uni-marburg.de

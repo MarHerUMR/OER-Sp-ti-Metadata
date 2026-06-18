@@ -6,25 +6,30 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
 id: https://openlearnware.tu-darmstadt.de/collection/internationalisierung-und-globalisierung-der-arbeitswelt-78/
 creator:
-- givenName: Ralph
-  familyName: Bruder
-  type: Person
-  affiliation: ''
-- givenName: Karin
-  familyName: Diegelmann
-  type: Person
-  affiliation: ''
+  - givenName: Ralph
+    familyName: Bruder
+    type: Person
+    affiliation: ''
+  - givenName: Karin
+    familyName: Diegelmann
+    type: Person
+    affiliation: ''
 keywords:
-- Digitalisierung
-- Internationalisierung
-- Globalisierung
-- Arbeit
+  - Digitalisierung
+  - Internationalisierung
+  - Globalisierung
+  - Arbeit
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n30
+  - https://w3id.org/kim/hochschulfaechersystematik/n30
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2020-03-23'
+sourceOrganization:
+  - name: Technische Universität Darmstadt
+    type: Organization
+    id: https://www.tu-darmstadt.de

@@ -7,18 +7,23 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: https://tu-darmstadt.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ab38076b-26a2-4556-9080-b061010b857a
 creator:
-- givenName: Ellen
-  familyName: Matthies
-  type: Person
-  affiliation: ''
+  - givenName: Ellen
+    familyName: Matthies
+    type: Person
+    affiliation: ''
 keywords:
-- Digitalisierung
+  - Digitalisierung
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n148
+  - https://w3id.org/kim/hochschulfaechersystematik/n148
 learningResourceType:
-- https://w3id.org/kim/hcrt/video
+  - https://w3id.org/kim/hcrt/video
+image: type_preview/video.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2020-03-17'
+sourceOrganization:
+  - name: Technische Universität Darmstadt
+    type: Organization
+    id: https://www.tu-darmstadt.de

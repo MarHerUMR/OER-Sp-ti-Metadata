@@ -6,26 +6,31 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
 id: https://hsrmqm.shinyapps.io/Projektarbeit-QM/#section-inhalt
 creator:
-- givenName: Irina
-  familyName: Mazilu-Eyaz
-  type: Person
-  affiliation: ''
+  - givenName: Irina
+    familyName: Mazilu-Eyaz
+    type: Person
+    affiliation: ''
 keywords:
-- Qualitätsmanagement
-- DIN EN ISO 9001
-- GAP-Modell
-- Kano-Modell
-- Prozessfähigkeit
-- Problem-Solving
-- Ishikawa
-- Pareto
-- 7Q
+  - Qualitätsmanagement
+  - DIN EN ISO 9001
+  - GAP-Modell
+  - Kano-Modell
+  - Prozessfähigkeit
+  - Problem-Solving
+  - Ishikawa
+  - Pareto
+  - 7Q
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n61
+  - https://w3id.org/kim/hochschulfaechersystematik/n61
 learningResourceType:
-- https://w3id.org/kim/hcrt/web_page
+  - https://w3id.org/kim/hcrt/web_page
+image: type_preview/web_page.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2023-05-15'
+sourceOrganization:
+  - name: Hochschule RheinMain
+    type: Organization
+    id: https://www.hs-rm.de/

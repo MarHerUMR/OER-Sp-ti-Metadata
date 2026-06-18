@@ -6,24 +6,29 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: https://moodle.frankfurt-university.de/course/view.php?id=8018
 creator:
-- givenName: Josef
-  familyName: Becker
-  type: Person
-  affiliation: ''
-- givenName: Frank
-  familyName: Lademann
-  type: Person
-  affiliation: ''
+  - givenName: Josef
+    familyName: Becker
+    type: Person
+    affiliation: ''
+  - givenName: Frank
+    familyName: Lademann
+    type: Person
+    affiliation: ''
 keywords:
-- Eisenbahnbetrieb
-- Signalsysteme
-- HessenHub-Förderlinie
+  - Eisenbahnbetrieb
+  - Signalsysteme
+  - HessenHub-Förderlinie
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n8
+  - https://w3id.org/kim/hochschulfaechersystematik/n8
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2021-02-15'
+sourceOrganization:
+  - name: Hochschule Frankfurt UAS
+    type: Organization
+    id: https://www.frankfurt-university.de

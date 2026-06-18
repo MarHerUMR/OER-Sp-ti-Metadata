@@ -6,27 +6,32 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: https://foc.geomedienlabor.de/doku.php?id=courses:studierende:l:s-fachdidaktik-parti-digi:lerneinheit:le02
 creator:
-- givenName: Melanie
-  familyName: Lauffenburger
-  type: Person
-  affiliation: ''
-- givenName: Magdalena
-  familyName: Liebe
-  type: Person
-  affiliation: ''
+  - givenName: Melanie
+    familyName: Lauffenburger
+    type: Person
+    affiliation: ''
+  - givenName: Magdalena
+    familyName: Liebe
+    type: Person
+    affiliation: ''
 keywords:
-- DiGeo
-- Partizipation
-- digitale Geomedien
-- geographische Lehrkräftebildung
-- Bildungskonzeption Spatial Citizenship
-- räumliche Aneignung von Kindern und Jugendlichen
+  - DiGeo
+  - Partizipation
+  - digitale Geomedien
+  - geographische Lehrkräftebildung
+  - Bildungskonzeption Spatial Citizenship
+  - räumliche Aneignung von Kindern und Jugendlichen
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n050
+  - https://w3id.org/kim/hochschulfaechersystematik/n050
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2022-03-10'
+sourceOrganization:
+  - name: Universität Frankfurt
+    type: Organization
+    id: https://www.uni-frankfurt.de/

@@ -6,26 +6,31 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: https://digll.informatik.uni-giessen.de/
 creator:
-- givenName: PD Dr. Matthias
-  familyName: Wendlandt
-  type: Person
-  affiliation: ''
-- givenName: Steffen
-  familyName: Burk
-  type: Person
-  affiliation: ''
-- givenName: Jan
-  familyName: Staudinger
-  type: Person
-  affiliation: ''
+  - givenName: PD Dr. Matthias
+    familyName: Wendlandt
+    type: Person
+    affiliation: ''
+  - givenName: Steffen
+    familyName: Burk
+    type: Person
+    affiliation: ''
+  - givenName: Jan
+    familyName: Staudinger
+    type: Person
+    affiliation: ''
 keywords:
-- HessenHub-Förderlinie
+  - HessenHub-Förderlinie
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n71
+  - https://w3id.org/kim/hochschulfaechersystematik/n71
 learningResourceType:
-- https://w3id.org/kim/hcrt/web_page
+  - https://w3id.org/kim/hcrt/web_page
+image: type_preview/web_page.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2021-01-29'
+sourceOrganization:
+  - name: Universität Gießen
+    type: Organization
+    id: https://www.uni-giessen.de

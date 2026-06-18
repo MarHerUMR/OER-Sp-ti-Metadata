@@ -6,19 +6,24 @@ description: ''
 license: https://creativecommons.org/licenses/by/4.0/deed.de
 id: https://ilias.uni-marburg.de/goto.php/copa/4436242
 creator:
-- givenName: Amal
-  familyName: Ali
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0009-0006-3928-2342
+  - givenName: Amal
+    familyName: Ali
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0009-0006-3928-2342
 keywords:
-- OER-Preis
+  - OER-Preis
 inLanguage:
-- ar
+  - ar
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n010
+  - https://w3id.org/kim/hochschulfaechersystematik/n010
 learningResourceType:
-- https://w3id.org/kim/hcrt/drill_and_practice
+  - https://w3id.org/kim/hcrt/drill_and_practice
+image: type_preview/drill_and_practice.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2025-09-24'
+sourceOrganization:
+  - name: Universität Marburg
+    type: Organization
+    id: https://www.uni-marburg.de

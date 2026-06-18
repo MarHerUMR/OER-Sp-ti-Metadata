@@ -6,21 +6,26 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
 id: https://tu-darmstadt.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2951a1db-fa01-4a9a-b1fc-b06200b0afba
 creator:
-- givenName: Ruth
-  familyName: Stock-Homburg
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0002-8576-5883
+  - givenName: Ruth
+    familyName: Stock-Homburg
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0002-8576-5883
 keywords:
-- Work-Life-Balance
-- Arbeitssoziologie
-- Burnout
+  - Work-Life-Balance
+  - Arbeitssoziologie
+  - Burnout
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n30
+  - https://w3id.org/kim/hochschulfaechersystematik/n30
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2020-03-23'
+sourceOrganization:
+  - name: Technische Universität Darmstadt
+    type: Organization
+    id: https://www.tu-darmstadt.de

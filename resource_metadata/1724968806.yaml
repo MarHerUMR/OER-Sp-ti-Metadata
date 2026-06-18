@@ -6,34 +6,39 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: https://journal.fortext.org/article/id/3783/
 creator:
-- givenName: Mareike
-  familyName: Schumacher
-  type: Person
-  affiliation: ''
+  - givenName: Mareike
+    familyName: Schumacher
+    type: Person
+    affiliation: ''
 keywords:
-- Netzwerkanalyse
-- Tools
-- Distant Reading
-- Figurennetzwerke
-- Social Network Analysis
-- Digitale Lehre
-- Digital Humanities
-- Forschendes Lernen
-- Digitale Textanalyse
-- Digitale Geisteswissenschaften
-- Germanistik
-- Literaturwissenschaft
-- Sprachwissenschaft
-- Geisteswissenschaften
-- Zeitschrift
-- Lehrmodul
-- Methoden
+  - Netzwerkanalyse
+  - Tools
+  - Distant Reading
+  - Figurennetzwerke
+  - Social Network Analysis
+  - Digitale Lehre
+  - Digital Humanities
+  - Forschendes Lernen
+  - Digitale Textanalyse
+  - Digitale Geisteswissenschaften
+  - Germanistik
+  - Literaturwissenschaft
+  - Sprachwissenschaft
+  - Geisteswissenschaften
+  - Zeitschrift
+  - Lehrmodul
+  - Methoden
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n1
+  - https://w3id.org/kim/hochschulfaechersystematik/n1
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2024-08-30'
+sourceOrganization:
+  - name: Technische Universität Darmstadt
+    type: Organization
+    id: https://www.tu-darmstadt.de

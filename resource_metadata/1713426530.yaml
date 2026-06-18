@@ -6,22 +6,27 @@ description: ''
 license: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 id: https://ilias.hs-gm.de/goto.php?target=cat_17055&client_id=iliasprod
 creator:
-- givenName: Hochschuldidaktik und eLearning
-  familyName: Hochschule Geisenheim University
-  type: Person
-  affiliation: ''
+  - givenName: Hochschuldidaktik und eLearning
+    familyName: Hochschule Geisenheim University
+    type: Person
+    affiliation: ''
 keywords:
-- LLM
-- Künstliche Intelligenz
-- KI
-- Prompt Engineering
-- Prompting
+  - LLM
+  - Künstliche Intelligenz
+  - KI
+  - Prompt Engineering
+  - Prompting
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n01
+  - https://w3id.org/kim/hochschulfaechersystematik/n01
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2024-04-17'
+sourceOrganization:
+  - name: Hochschule Geisenheim
+    type: Organization
+    id: https://www.hs-geisenheim.de

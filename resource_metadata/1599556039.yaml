@@ -6,31 +6,36 @@ description: ''
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
 id: https://lernbar.uni-frankfurt.de/natk/02DMLernfo
 creator:
-- givenName: Natalie
-  familyName: Kiesler
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0002-6843-2729
-- givenName: Christina
-  familyName: Weers
-  type: Person
-  affiliation: ''
-  id: https://orcid.org/0000-0002-9758-2443
+  - givenName: Natalie
+    familyName: Kiesler
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0002-6843-2729
+  - givenName: Christina
+    familyName: Weers
+    type: Person
+    affiliation: ''
+    id: https://orcid.org/0000-0002-9758-2443
 keywords:
-- Drei-Speicher-Modell
-- Instruktionsdesign
-- Multimedia
-- Lernen mit Multimedia
-- Kognitive Theorien multimedialen Lernens
-- Theorie der kognitiven Beanspruchung
-- 12 Multimedia Prinzipien (nach R. Mayer)
-- Kognitive Lernstrategien
+  - Drei-Speicher-Modell
+  - Instruktionsdesign
+  - Multimedia
+  - Lernen mit Multimedia
+  - Kognitive Theorien multimedialen Lernens
+  - Theorie der kognitiven Beanspruchung
+  - 12 Multimedia Prinzipien (nach R. Mayer)
+  - Kognitive Lernstrategien
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n33
+  - https://w3id.org/kim/hochschulfaechersystematik/n33
 learningResourceType:
-- https://w3id.org/kim/hcrt/course
+  - https://w3id.org/kim/hcrt/course
+image: type_preview/course.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2020-09-03'
+sourceOrganization:
+  - name: Universität Frankfurt
+    type: Organization
+    id: https://www.uni-frankfurt.de/

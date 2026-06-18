@@ -6,25 +6,30 @@ description: ''
 license: https://creativecommons.org/licenses/by/4.0/deed.de
 id: https://ilias.uni-marburg.de/ilias.php?baseClass=ilrepositorygui&ref_id=4405474
 creator:
-- givenName: Sophia
-  familyName: Völlinger
-  type: Person
-  affiliation: ''
+  - givenName: Sophia
+    familyName: Völlinger
+    type: Person
+    affiliation: ''
 keywords:
-- Medienreflexionskompetenz (MRK)
-- Unterrichtsmaterial
-- Social Media
-- BookTok
-- Bookstagram
-- Social Reading
-- Literarisches Lernen
-- OER-Preis
+  - Medienreflexionskompetenz (MRK)
+  - Unterrichtsmaterial
+  - Social Media
+  - BookTok
+  - Bookstagram
+  - Social Reading
+  - Literarisches Lernen
+  - OER-Preis
 inLanguage:
-- de
+  - de
 about:
-- https://w3id.org/kim/hochschulfaechersystematik/n302
+  - https://w3id.org/kim/hochschulfaechersystematik/n302
 learningResourceType:
-- https://w3id.org/kim/hcrt/lesson_plan
+  - https://w3id.org/kim/hcrt/lesson_plan
+image: type_preview/lesson_plan.png
 educationalLevel:
-- https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2025-09-02'
+sourceOrganization:
+  - name: Universität Marburg
+    type: Organization
+    id: https://www.uni-marburg.de
