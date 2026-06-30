@@ -18,7 +18,7 @@ about:
   - https://w3id.org/kim/hochschulfaechersystematik/n3
 learningResourceType:
   - https://w3id.org/kim/hcrt/application
-image: type_preview/application.png
+image: https://raw.githubusercontent.com/MarHerUMR/OER-Sp-ti-Metadata/refs/heads/main/type_preview/application.png
 educationalLevel:
   - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2025-08-28'

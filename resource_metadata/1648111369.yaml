@@ -23,7 +23,7 @@ about:
   - https://w3id.org/kim/hochschulfaechersystematik/n079
 learningResourceType:
   - https://w3id.org/kim/hcrt/lesson_plan
-image: type_preview/lesson_plan.png
+image: https://raw.githubusercontent.com/MarHerUMR/OER-Sp-ti-Metadata/refs/heads/main/type_preview/lesson_plan.png
 educationalLevel:
   - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2022-03-22'

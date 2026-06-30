@@ -18,7 +18,7 @@ about:
   - https://w3id.org/kim/hochschulfaechersystematik/n079
 learningResourceType:
   - https://w3id.org/kim/hcrt/drill_and_practice
-image: type_preview/drill_and_practice.png
+image: https://raw.githubusercontent.com/MarHerUMR/OER-Sp-ti-Metadata/refs/heads/main/type_preview/drill_and_practice.png
 educationalLevel:
   - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2023-07-04'
